@@ -4,6 +4,6 @@
 
 - 100 Gün boyunca çalışmalarımı buradan takip edebilir, tekrarlar yapabilir veya paylaştığım kaynaklardan yararlanabilirsiniz.
 
-- Konular klasör klasör ayrılıp klasörlerin içinde kaynak kodları, kaynakları ve cheat sheeleri bulabilirsiniz.
+- Konular klasör klasör ayrılıp klasörlerin içinde kaynak kodları, ya yararlandığım kaynakları ve cheat sheeleri bulabilirsiniz.
 
 ###### İyi çalışmalar. Esen kalın.
