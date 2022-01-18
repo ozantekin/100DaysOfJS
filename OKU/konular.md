@@ -1,8 +1,8 @@
 <h1 align="center">Konular </h1>
 
-- JavaScript Giriş
-- Değişkenler
-- Operatörler
+- JavaScript Giriş :white_check_mark:
+- Değişkenler :white_check_mark:
+- Operatörler :white_check_mark:
 - Veri Yapıları
 - Diziler
 - Koşul İfadeleri
