@@ -29,3 +29,17 @@ console.log("Can zayıf mı:" +canZayıf);
 console.log("Can normail mi:" +canNormal);
 console.log("Can kilolu mu:" +canKilolu);
 console.log("Can obez mi:" +canObez);
+
+
+/* 
+!= | Eşit değil mi?
+!== | Eşit değil mi? (Tip kontrolü de yapılır)
+>= | Büyük eşit mi? (Büyük ise TRUE, Eşit ise TRUE)
+*/
+
+/* 
+Lise mantık gibi düşünülebilir
+&& (And) | True && True = True diğer kombinasyonlar false 
+|| (Or) | False || False = False diğer kombinasyonlar true
+! (Not) || True ise Falsa yapar, False ise True yapar
+*/
