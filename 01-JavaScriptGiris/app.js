@@ -11,3 +11,6 @@ console.warn("A warning has occured");
 /* yorum satırları */
 
 console.clear();
+
+
+//Değindik sadece kafanıza tkaılmasın neler yapabildiğimize baktık büyük resme odaklanmanız için yapılmış çalışma
