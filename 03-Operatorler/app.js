@@ -43,3 +43,22 @@ Lise mantık gibi düşünülebilir
 || (Or) | False || False = False diğer kombinasyonlar true
 ! (Not) || True ise Falsa yapar, False ise True yapar
 */
+
+/*
++ toplama
+- çıkarma
+* çarpma
+/ bölme
+% bölüm sonrası kalan değer
+++ Artış
+-- Azalış 
+*/
+
+let x = 10; 
+x +=5; // x ile 5 i toplar
+
+let y=20;
+y -=3; // 3 çıkarır
+
+console.log(x);
+console.log(y);

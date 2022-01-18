@@ -10,7 +10,7 @@ console.warn("A warning has occured");
 //tek satırlık yorum satırı
 /* yorum satırları */
 
-console.clear();
+console.clear(); // tüm console temizler
 
 
-//Değindik sadece kafanıza tkaılmasın neler yapabildiğimize baktık büyük resme odaklanmanız için yapılmış çalışma
+//Değindik sadece kafanıza takılmasın neler yapabildiğimize baktık büyük resme odaklanmanız için yapılmış çalışma
