@@ -62,7 +62,7 @@ Constant yani Sabit anlamını taşımaktadır .
 const ile tanımlanmış bir değişken let kullanımında olduğu gibi tanımlandığı kapsam (block scope) içerisinden erişilebilir ve bunun dışından erişimler sağlanmaz.
 */
 
-//Mediu üzerinden daha detaylı bir açıklamasına ulabilirsiniz | https://medium.com/@ozantekindev (Bugün (18.01) gün içerisinde ekleyeceğim)
+//Mediu üzerinden daha detaylı bir açıklamasına ulabilirsiniz. Link için verletconst.md | https://medium.com/@ozantekindev (Bugün (18.01) gün içerisinde ekleyeceğim)
 
 
 
