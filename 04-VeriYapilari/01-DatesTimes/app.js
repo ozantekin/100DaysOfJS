@@ -1,7 +1,7 @@
 // data object
 
 /* 
-0.Gün Pazartesi ile başlar
+haftanın günleri 0.Gün Pazartesi ile başlar
 0.Ay Ocak ile başlar
 */
 
@@ -40,6 +40,14 @@ console.log(birthday);
 
 // 2.yazılış
 let year = new Date('1/1/2001 14:50:06');
+//normal yazıldığı gibi yazılır
 
 console.log(year);
 
+let newYear = new Date (2001,0,1,14,50,06);
+/* 
+yıl, ay, gün, saat,... şeklinde yazılır
+Ay ise 0 ve Ocak ile başlar demiştik ona göre yazarız
+Ayın günü öyle değil hangi gün ise o yazılır 0 ile başladığını hesap etmemiz gereken haftanın günleriydi
+*/
+console.log(newYear);
