@@ -51,3 +51,39 @@ Ay ise 0 ve Ocak ile başlar demiştik ona göre yazarız
 Ayın günü öyle değil hangi gün ise o yazılır 0 ile başladığını hesap etmemiz gereken haftanın günleriydi
 */
 console.log(newYear);
+
+// çevirme 
+
+var start = new Date("1/1/1990");
+var end = new Date("1/1/1991")
+
+var milisecond = end-start;
+var saniye= milisecond / 1000;
+var dakika = saniye / 60;
+var saat = dakika / 60;
+var gün = saat /24;
+
+console.log("milisecond:" +milisecond);
+console.log("saniye:" +saniye);
+console.log("dakika:" +dakika);
+console.log("saat:" +saat);
+console.log("gün:" +gün);
+
+// milisecond
+
+var z = new Date("8/1/1985");
+
+console.log(z.getTime()); // 1970 yılından 1985 e
+console.log(Date.now()); // 1970 yılından bu tarihe kadar geçen milisecond
+
+// yaş hesaplama 
+
+var z = new Date("8/1/1985");
+var w = Date.now() - z.getTime();
+
+var ageDate= new Date(w);
+
+console.log(w);
+console.log(ageDate);
+console.log(ageDate.getFullYear()- 1970);
+
