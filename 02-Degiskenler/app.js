@@ -34,15 +34,35 @@ let order6=parseInt('150.5');
 let total3 = order5+order6;
 console.log(total3);
 
- const yearOfBirth=2000; //let var da değişir const sabit ve hata verir altı  yorum yaparsak çalışır
+ const yearOfBirth=2000; //let, var da değişir const sabit ve hata verir altı  yorum yaparsak çalışır
  //yearOfBirth=2002;
 console.log(new Date().getFullYear()-yearOfBirth);
 
 let course ='Modern JavaScript Kursu';
 console.log(course.length);
 
+// İleride daha detaylı gereceğiz zihninizde yer edinmesi açısından ufak bir not
 
+/* 
+var | Function Scope
+let/ const | Block scope
 
+Block scope’dan kasıt her bir süslü parantezin ({}) içerisidir Sonradan tekrar değiştirilebilir Aynı kapsam (scope) içerisinde sadece bir sefer tanımlanabilir.
+
+*var 
+Yani değişkenin( variable) kısaltmasıdır.
+fonksiyon içerisindeki değerlerinin dışarıdan erişilebilir.
+Var ile tanımlanan değişlenler kodun herhangi bir yerinde ve birden fazla kez kullanılabilir . Ya da tekrar tanımlanabilir.
+
+*let
+Sonradan tekrar değiştirilebilir Aynı kapsam (scope) içerisinde sadece bir sefer tanımlanabilir. Tekrar tanımlanmaya çalıştığında kod hata verir ve çalışmayı durdurur.
+
+*Const
+Constant yani Sabit anlamını taşımaktadır .
+const ile tanımlanmış bir değişken let kullanımında olduğu gibi tanımlandığı kapsam (block scope) içerisinden erişilebilir ve bunun dışından erişimler sağlanmaz.
+*/
+
+//Mediu üzerinden daha detaylı bir açıklamasına ulabilirsiniz | https://medium.com/@ozantekindev (Bugün (18.01) gün içerisinde ekleyeceğim)
 
 
 
