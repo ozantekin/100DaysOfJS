@@ -31,11 +31,15 @@ console.log(b);
 
 //hesaplamalar yapalım
 // yıl, ay, gün şekilde yazılır
-
 let birthday = new Date(2000,3,9);
 
 console.log(a.getFullYear() - birthday.getFullYear());
 console.log(a.getMonth()- birthday.getMonth());
 
 console.log(birthday);
+
+// 2.yazılış
+let year = new Date('1/1/2001');
+
+console.log(year);
 
