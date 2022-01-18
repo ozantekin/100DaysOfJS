@@ -39,7 +39,7 @@ console.log(a.getMonth()- birthday.getMonth());
 console.log(birthday);
 
 // 2.yazılış
-let year = new Date('1/1/2001');
+let year = new Date('1/1/2001 14:50:06');
 
 console.log(year);
 
