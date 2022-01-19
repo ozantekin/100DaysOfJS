@@ -3,7 +3,7 @@
 - JavaScript Giriş :white_check_mark:
 - Değişkenler :white_check_mark:
 - Operatörler :white_check_mark:
-- Veri Yapıları
+- Veri Yapıları :white_check_mark:
 - Diziler
 - Koşul İfadeleri
 - Döngüler
