@@ -4,7 +4,7 @@
 - Değişkenler :white_check_mark:
 - Operatörler :white_check_mark:
 - Veri Yapıları :white_check_mark:
-- Diziler
+- Diziler :white_check_mark:
 - Koşul İfadeleri
 - Döngüler
 - Fonksiyonlar
