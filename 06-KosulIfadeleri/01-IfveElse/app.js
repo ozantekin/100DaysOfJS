@@ -62,10 +62,10 @@ if (age>=18) {
 
 if ( age>0 && age<12){
 console.log(`${first} is a child `);
-}else if (age>=13 && age<23 ){  // else if ile bir koşul daha bağlayabiliriz
+}else if (age>=13 && age<19 ){  // else if ile bir koşul daha bağlayabiliriz
 console.log(`${first} is a teenager`);
 } else{
-    console.log(`${first} is a adult`); // 24 olsa yaş bu gerçekleşir
+    console.log(`${first} is a adult`); 
 }
 
 // undefined   // !, not anlamı katar !==, eşit olmayan
