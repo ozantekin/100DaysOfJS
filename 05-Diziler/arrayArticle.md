@@ -1,1 +1,1 @@
-  <a>https://medium.com/@ozantekindev/array-dizi-cheat-sheet-javascript-998c4eb910a6<a/>
+- <a>https://medium.com/@ozantekindev/array-dizi-cheat-sheet-javascript-998c4eb910a6<a/>
