@@ -5,7 +5,7 @@
 - Operatörler :white_check_mark:
 - Veri Yapıları :white_check_mark:
 - Diziler :white_check_mark:
-- Koşul İfadeleri
+- Koşul İfadeleri :white_check_mark:
 - Döngüler
 - Fonksiyonlar
 - Dom
