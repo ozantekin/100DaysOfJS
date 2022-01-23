@@ -1,28 +1,28 @@
-var heart=5,duty;
-var guess,counter=0;
-var numbers=Math.round((Math.random()*10)+1); // +1 vermemizin nedeni 0 sonucunu almak istemememiz
-duty=Number(prompt("Kaç kerede bileceksiniz?"));
-heart=duty;
+var hak=5 , can; // hak can yapma aynı kefede yazılır
+var tahmin , sayac=0; // sayac 0 dan başlamasını istiyoruz
+var sayi=Math.floor((Math.random()*10)+1); // +1 vermemizin nedeni 0 sonucunu almak istemememiz
+can=Number(prompt("Kaç kerede bileceksiniz?"));
+hak=can;
 
-console.log(numbers);
+console.log(sayi);
 
-while (heart>0) {
-heart--; // heart sonsuz olmaması için verilmeli
-counter++;
-    guess=Number(prompt("bir sayi giriniz"));
+while (hak>0) {
+hak--; // hak sonsuz olmaması için verilmeli
+sayac++; // tahmin arttıkça sayaç artacak
+    tahmin=Number(prompt("bir sayi giriniz"));
 
-    if(numbers==guess){
-        console.log(`tebrikler ${counter} defada bildiniz`); // doğru olursa break ile loop durdurulur
-        console.log(`score: ${100-(100/duty)*(counter-1)}`); // bildiğimiz son soru bu işin içine katılmasını istemiyoruz o yüzden -1 de veririz. Bildiğimiz soru çıkartılmaz.  (Tam anlayabilmek için 1yazarak ve yazmayarak deneyin ve çalıştırın)
-        break;
-    }else if (numbers>guess){
+    if(sayi==tahmin){
+        console.log(`tebrikler ${sayac} defada bildiniz`); 
+        console.log(`score: ${100-(100/can)*(sayac-1)}`); // bildiğimiz son soru bu işin içine katılmasını istemiyoruz o yüzden -1 de veririz. Bildiğimiz soru puandan çıkartılmaz çünkü guess ile counter aynı artıyor  yani 1 artıyor ama bildiğimiz zaman sayaç ve sayı 1 artsada puanın azalmaması lazım o yüzden bildiğimiz sorudaki artan 1 i alıyoruz.  (Tam anlayabilmek için 1 yazarak ve yazmayarak deneyin ve çalıştırın)
+        break; // doğru olursa break ile loop durdurulur
+    }else if (sayi>tahmin){
         console.log("yukari");
     }else{
-        console.log("asagi");88
+        console.log("asagi");
     }
 
-    if(heart==0){
-        console.log("hakkiniz bitti :"+counter);
+    if(hak==0){
+        console.log("hakkiniz bitti. Sayı :"+sayi);
     }
 }
 
