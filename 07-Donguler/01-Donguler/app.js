@@ -103,6 +103,6 @@ for ( let z=0; z<20; z++){
     for(let w=0;w<20;w++){
         val1 +="* ";
     }
-    val1+="\n";
+    val1+="\n"; // düzenler kare haline getirir yıldız ççerçevesini
 }
 console.log(val1);
