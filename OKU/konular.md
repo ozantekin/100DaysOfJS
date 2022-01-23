@@ -6,7 +6,7 @@
 - Veri Yapıları :white_check_mark:
 - Diziler :white_check_mark:
 - Koşul İfadeleri :white_check_mark:
-- Döngüler
+- Döngüler :white_check_mark:
 - Fonksiyonlar
 - Dom
 - Events
