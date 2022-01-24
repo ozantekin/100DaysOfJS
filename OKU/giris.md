@@ -8,10 +8,13 @@
 
 - Eğer hangi dil ile başlamam gerekiyor ne yapmalıyım diyorsanız hayata geçireceğim eğitim mod,lünü inceleyelim: 
   
-  Yeni başlayacak arkadaşlar için adım adım eğitim serisi oluşturdum. Tanışalım, Yeni Başlayacaklar İçin, Mentorluk ve son olarak Birlikte Çalışalım adımlarıyla yazılıma giriş yapabilirsiniz. Bu sistemin amacı yazılıma giriş yaparken aklınızdaki soru işaretlerini gidermek, size uygun olan alanı seçmek ve son olarak 21 gün kuralına uyarak motivasyon ve istikrar kaybını önlemek. Esen kalın.
+- Yeni başlayacak arkadaşlar için adım adım eğitim serisi oluşturdum. Tanışalım, Mentorluk ve son olarak Birlikte Çalışalım adımlarıyla yazılıma giriş yapabilirsiniz. Bu sistemin amacı yazılıma giriş yaparken aklınızdaki soru işaretlerini gidermek, seçmek istediğiniz alan hakkında size yardımcı olmak, motivasyon kaybını önlemek ve son olarak 21 gün kuralına uyarak istikrar sağlamak. İyi çalışmalar. Esen kalın.
 
 - Eğer eğitim hakkında detaylı bilgi almak istiyorsanız gelin konuşalım <a>https://superpeer.com/ozantekin<a/>.
   
-#### Şimdi ders başlıklarına (konular) geçebilirsiniz.
+<br/>
 
-###### İyi çalışmalar. Esen kalın.
+<h4 align="center">Şimdi ders başlıklarına (konular) geçebilirsiniz. </h4>
+
+
+
