@@ -51,14 +51,14 @@ console.log(model); // bu yazdırılır
 
 // let ve const dışarıdan ulaşılmaz karmaşık projelerde let ve const kullanmak daha mantıklıdır. var kullanmamaya çalışacağız. örnek ile açıklayalım
 
-var i=1;
+var i=1; // 10 yazdı
 for (var i =0;i<10;i++){
     console.log("i :",i);
 }
 
 console.log(i);
-
-var i=1;
+//----------------------------------
+var i=1; // 1 yazdı
 for (let i =0;i<10;i++){
     console.log("i :",i);
 }
