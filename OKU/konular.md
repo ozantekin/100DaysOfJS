@@ -7,7 +7,7 @@
 - Diziler :white_check_mark:
 - Koşul İfadeleri :white_check_mark:
 - Döngüler :white_check_mark:
-- Fonksiyonlar
+- Fonksiyonlar :white_check_mark:
 - Dom
 - Events
 - LocalStorage
