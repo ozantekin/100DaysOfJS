@@ -48,6 +48,8 @@ val=list.children[0].nextElementSibling; // bir sonraki element
 val=list.children[1].previousSibling;
 val=list.children[1].previousElementSibling;
 
+console.log(val);
+
 for(let i=0; i<list.children.length;i++){
     console.log(list.children[i]);
 }
@@ -70,4 +72,3 @@ nodeType değerleri neleri belli eder
 8 = comment line
 */
 
-console.log(val);
