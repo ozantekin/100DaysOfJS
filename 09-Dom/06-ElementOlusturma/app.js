@@ -10,7 +10,7 @@ li.setAttribute("data","5");
 
 // text node
 const text=document.createTextNode("ozantekindev"); // texti li ile ilişkilendirmemiz gerekiyor
-li.appendChild(text).;
+li.appendChild(text);
 
 
 // çarpı icon ekleyelim
