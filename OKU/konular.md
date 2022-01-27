@@ -8,7 +8,7 @@
 - Koşul İfadeleri :white_check_mark:
 - Döngüler :white_check_mark:
 - Fonksiyonlar :white_check_mark:
-- Dom
+- Dom :white_check_mark:
 - Events
 - LocalStorage
 - Dom Projesi - Todo Uygulaması
