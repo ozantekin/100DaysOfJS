@@ -9,7 +9,7 @@
 - Döngüler :white_check_mark:
 - Fonksiyonlar :white_check_mark:
 - Dom :white_check_mark:
-- Events
+- Events :white_check_mark:
 - LocalStorage
 - Dom Projesi - Todo Uygulaması
 - Dom Projesi - Slider Uygulaması
