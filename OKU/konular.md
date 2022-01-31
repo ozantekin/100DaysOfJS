@@ -10,7 +10,7 @@
 - Fonksiyonlar :white_check_mark:
 - Dom :white_check_mark:
 - Events :white_check_mark:
-- LocalStorage
+- LocalStorage :white_check_mark:
 - Dom Projesi - Todo Uygulaması
 - Dom Projesi - Slider Uygulaması
 - JQuery
