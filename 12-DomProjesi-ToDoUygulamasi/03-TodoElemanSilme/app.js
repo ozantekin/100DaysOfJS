@@ -42,8 +42,8 @@ function addNewItem(e){
     //clear 
     input.value="";
     
-    console.log(li);
-    e.preventDefault
+   
+    e.preventDefault();
 }
 
 
@@ -89,5 +89,3 @@ function deleteAllItems(){
 
 // reminder :
 // node list ile HTML collection arasındaki fark nodelist text nodeları da getirir
-
- 
