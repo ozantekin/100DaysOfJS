@@ -3,30 +3,22 @@ const input=document.querySelector("#txtTaskName");
 const btnDeleteAll= document.querySelector("#btnDeleteAll");
 const taskList= document.querySelector("#task-list");
 
-eventListeners();
+// dizi ekleme
+const items=["item 1","item 2","item 3","item 4"];
 
-function eventListeners (){
+//load items
+loadItems();
 
-    // submit event
-form.addEventListener("submit",addNewItem);
-
-    // delete an item
-taskList.addEventListener("click",deleteItem);
-
-// delete all items
-btnDeleteAll.addEventListener("click",deleteAllItems);
+function loadItems(){
+    items.forEach(function(item){
+        createItem(item);
+    });
 }
 
-// add new item
-function addNewItem(e){
-
-    if(input.value=== ""){
-        alert("add new item");
-    }
-
+function createItem(text){
     const li=document.createElement("li");
     li.className="list-group-item list-group-item-secondary";
-    li.appendChild(document.createTextNode(input.value));
+    li.appendChild(document.createTextNode(text)); // inputtan değil de text değerinden değerler gelsin yani dışarıdan ekleme yapalalım
 
     const a=document.createElement("a");
     a.classList="delete-item float-end";
@@ -38,32 +30,63 @@ function addNewItem(e){
 
     //ul ekleme
     taskList.appendChild(li);
+}
+
+eventListeners();
+
+
+function eventListeners (){
+
+    // submit event
+form.addEventListener("submit",addNewItem);
+
+    // delete an item
+taskList.addEventListener("click",deleteItem);
+
+// delete all items
+btnDeleteAll.addEventListener("click",deleteAllItems);
+
+
+}
+
+
+
+// add new item
+function addNewItem(e){
+
+    if(input.value=== ""){
+        alert("add new item");
+    }
+
+    // buradaki değerleri yukarıdaki item içine taşıdık 
+
+    // create item
+    createItem(input.value); // bar kısmına yazılıp enterlanan değerleri ekler
 
     //clear 
     input.value="";
     
-    console.log(li);
-    e.preventDefault
+    e.preventDefault();
 }
 
 
 // delete an item
 function deleteItem(e){
     
-    if(confirm("Are u sure?")){  // işlemi doğrulama alerti oluşturur 
+    
 
         if(e.target.className ==='fas fa-times'){
+            if(confirm("Are u sure?")){  // işlemi doğrulama alerti oluşturur 
             e.target.parentElement.parentElement.remove();
+            }
         }
 
-    }
+    
 
     e.preventDefault(); // a elementi olduğu için bu refersh olmayı önler button gibi elementlerde kullanmaya gerek yoktur
 }
 
 // delete all items
-
-
 
 function deleteAllItems(){
 
