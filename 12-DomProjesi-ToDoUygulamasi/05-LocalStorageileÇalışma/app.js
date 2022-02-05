@@ -145,6 +145,7 @@ function deleteAllItems(){
     e.preventDefault();
 }
 
+// url ile ilişkilendirilmiş bir local storge olacak.  siteyi her ziyaret edene özel bir local storage olacak ve önceki etkileşimleri kayıtlı kalacak.
 
 // reminder :
 // node list ile HTML collection arasındaki fark nodelist text nodeları da getirir
