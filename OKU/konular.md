@@ -11,7 +11,7 @@
 - Dom :white_check_mark:
 - Events :white_check_mark:
 - LocalStorage :white_check_mark:
-- Dom Projesi - Todo Uygulaması
+- Dom Projesi - Todo Uygulaması :white_check_mark:
 - Dom Projesi - Slider Uygulaması
 - JQuery
 - Nesne Tabanlı Programlama
