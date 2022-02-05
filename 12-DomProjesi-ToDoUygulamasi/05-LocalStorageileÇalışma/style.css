@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#header{
+    font-size:2.5rem ;
+}
+
+a{
+    color: white ;
+}
+a:hover{
+    color:red;
+}
