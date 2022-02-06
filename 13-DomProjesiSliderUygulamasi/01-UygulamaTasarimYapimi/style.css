@@ -3,3 +3,8 @@
     margin: 0px;
     box-sizing: border-box;
 }
+
+img{
+    height: 20rem;
+    width: 5rem;
+}
