@@ -12,7 +12,7 @@
 - Events :white_check_mark:
 - LocalStorage :white_check_mark:
 - Dom Projesi - Todo Uygulaması :white_check_mark:
-- Dom Projesi - Slider Uygulaması
+- Dom Projesi - Slider Uygulaması :white_check_mark:
 - JQuery
 - Nesne Tabanlı Programlama
 - Hata Yönetimi
