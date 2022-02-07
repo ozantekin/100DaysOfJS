@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a{
+    color: #8a5a44 ;
+}
+a:hover{
+color:#b07d62;
+border-bottom: #b07d62 1px solid;
+}
+
+h5{
+    color: #774936;
+}
+
+img{
+    height: 20rem;
+    width: 5rem;
+}
+
+.far{
+    cursor: pointer;
+    color: #cd9777;
+}
