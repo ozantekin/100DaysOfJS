@@ -33,7 +33,7 @@ var slaytCount=links.length;
 
 var settings={
     duration:"2000", // 2 saniye
-    random:false
+    random:false // true dersek random değişir
 };
 
 init(settings);
