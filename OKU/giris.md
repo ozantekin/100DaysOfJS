@@ -12,9 +12,22 @@
 
 - Eğer eğitim hakkında detaylı bilgi almak istiyorsanız gelin konuşalım <a>https://superpeer.com/ozantekin<a/>.
   
-<br/>
+<br>
 
 <h4 align="center">Şimdi ders başlıklarına (konular) geçebilirsiniz. </h4>
 
+<hr/>
+
+<h3 align="center">Sosyal Medya</h3>
+
+- Twitter : <a href="https://twitter.com/ozantekindev"> Paylaştığım içerikler gelişmenizi hızlandıracaktır.</a>
+
+- Medium : <a href="https://medium.com/@ozantekindev">Burası benim crib note’m.</a>
+
+- Instagram : <a href="https://medium.com/@ozantekindev">Bütün hazırlamış olduğum cheat sheetleri ve reels paylaşımlarını kaçırmayın.</a>
+
+- Youtube : <a href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw">Ekipmanları tamamlandıktan sonra gelin birlikte kodlayalım.</a>
+
+- Tanışalım : <a href="https://superpeer.com/ozantekin">1:1 Görüşmeler için aktif bir şekilde kullanacağım.</a>
 
 
