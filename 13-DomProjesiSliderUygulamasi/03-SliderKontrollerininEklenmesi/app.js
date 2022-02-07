@@ -26,8 +26,8 @@ var links=[
     }
 ];
 
-var index=2;
-var slaytCount=links.length;
+var index=0;
+var slaytCount=links.length; 
 
 showSlide(index);
 
@@ -47,7 +47,7 @@ function showSlide(i){
 
     index=i;
     if(i<0){
-        index=4; // -1 olduğu zaman bizi 4 numaralı indexe gönderir
+        index=slaytCount-1; // -1 olduğu zaman bizi 4 numaralı indexe gönderir  //length=5 index 0,1,2,3,4  length-1=4.index
     }
     if(i>=slaytCount){
         index=0;
