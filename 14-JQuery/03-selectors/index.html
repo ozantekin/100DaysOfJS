@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JQuery Selectors</title>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.js"
+      integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <h3>JQuery Selectors</h3>
+    <a href="ozantekin.dev">ozantekin</a>
+    <ul id="list">
+      <li>Reference <a href="ozanteki.dev">ozantekin.dev</a></li>
+      <li class="selector">Selectors</li>
+      <li>Plugins</li>
+    </ul>
+
+    <ul>
+      <li>Reference <a href="ozanteki.dev">ozantekin.dev</a></li>
+      <li class="selector">Selectors</li>
+      <li>Plugins</li>
+    </ul>
+
+    <script>
+      console.log($("#list"));
+
+      console.log($("h3"));
+
+      console.log($("ul"));
+
+      console.log($("li"));
+
+      console.log($(".selector"));
+
+      console.log($("li"));
+
+      console.log($("a"));
+
+      console.log($("li a"));
+
+      console.log($("ul li a"));
+
+      console.log($("#list li a"));
+    </script>
+  </body>
+</html>
