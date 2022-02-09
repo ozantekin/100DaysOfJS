@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.js"
+      integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+      crossorigin="anonymous"
+    ></script>
+
+    <style>
+      .highlight {
+        background-color: yellow;
+      }
+      .green {
+        background-color: green;
+      }
+      .display {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>helper method</h1>
+    <ul>
+      <li>Selector</li>
+      <li>Method</li>
+      <li>Animation</li>
+    </ul>
+
+    <img src="image/favicon.png" alt="ozan" width: 150px />
+
+    <input
+      id="name"
+      type="text"
+      placeholder="FullName"
+      value="Jquery Val Fonk"
+    />
+    <input id="lastName" class="green" type="text" placeholder="lastName" />
+    <input id="country" type="text" placeholder="Country" />
+    <button id="btnSign" onclick="nameLastName();">Sign Up</button>
+
+    <script>
+      console.log($("h1").text());
+
+      console.log($("ul").text());
+
+      console.log($("ul li").text());
+
+      $("h1").text("JavaScript");
+
+      console.log($("input").val());
+
+      $("input").val(""); //içine atar
+
+      $("img").attr("width", "50px");
+
+      function nameLastName() {
+        var name = $("#name").val();
+        var lastName = $("#lastName").val();
+        var country = $("#country").val();
+        console.log(
+          "your name, surname and country :" +
+            name +
+            " " +
+            lastName +
+            " " +
+            country
+        );
+
+        $("#name").addClass("highlight"); // sign up basınca gelir
+
+        $("#lastName").removeClass("green"); // sign up basınca green kalkar
+
+        $("#country").toggleClass("display"); // eklenmemişse ekler eklenmişse çıkartır
+      }
+    </script>
+  </body>
+</html>

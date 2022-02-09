@@ -1,0 +1,9 @@
+- css()
+- text()
+- val()
+- attr()
+- html()
+- addClass()
+- removeClass()
+- toggleClass()
+- <a href="https://api.jquery.com/">Buradan</a> daha detaylı bir şekilde inceleyebilirsiniz.
