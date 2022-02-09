@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JQuery Selectors</title>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.js"
+      integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <h3 id="header">JQuery Selectors</h3>
+    <a href="ozantekin.dev">ozantekin</a>
+    <ul id="list">
+      <li>Reference <a href="ozanteki.dev">ozantekin.dev</a></li>
+      <li class="selector">Selectors</li>
+      <li>Plugins</li>
+    </ul>
+
+    <script>
+      document.getElementById("header").style.color = "red"; //eski yöntemimiz buydu
+
+      $("#header").css("color", "pink");
+
+      $("#list a").css("text-decoration", "none"); // li altındaki a
+
+      $("a").css("text-decoration", "none"); // tüm a
+
+      var styles = {
+        color: "yellow",
+        fontSize: "30px",
+        border: "1px solid red",
+      };
+      $("ul li").css(styles);
+
+      var listeler = document.querySelectorAll("li");
+      for (var i = 0; i < listeler.length; i++) {
+        listeler[i].style.color = "purple";
+      }
+      // yukarıdaki normalde yaptığımız uzun yöntemdi aradaki farka daha dikkatli bakmanız için ekliyorum
+
+      $("a").css({
+        color: "brown",
+        fontSize: "40px",
+        borderBottom: "5px dashed blue",
+      });
+
+      $(".selector").css({
+        fontWeight: "bold",
+      });
+    </script>
+  </body>
+</html>
