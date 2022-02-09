@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.js"
+      integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      // kontrol ilk adım
+      $(document).ready(function () {
+        console.log("document ready");
+      });
+      // 2.yol
+      $(function () {
+        console.log("document ready");
+      });
+      // genelde aşağıda yazılması tercih edilir ama burada da yazarsanız problem olmaz
+    </script>
+    <style>
+      .paragrafcolor {
+        color: aqua;
+        font-size: 25px;
+      }
+      .doublecolor {
+        color: blueviolet;
+        font-size: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <p id="p1">Click Event</p>
+    <p id="p2">ozan tekin</p>
+    <p class="paragraf">Jr.Front-End Developer</p>
+    <p class="paragraf">CE Student</p>
+
+    <script>
+      $(document).click(function () {
+        $("#p1").click(function () {
+          alert("p1 click event");
+        });
+      });
+
+      $(document).click(function () {
+        $(".paragraf").click(function () {
+          // zaten paragraf içinde olduğumuz için bir daha yazmamıza gerek yok this bize tekli tekli ulaşmamızı sağlar
+          $(this).addClass("paragrafcolor");
+        });
+      });
+
+      // this kullunmayalım .paragraf kullanalım
+      $(document).click(function () {
+        $(".paragraf").click(function () {
+          $(".paragraf").addClass("doublecolor");
+        });
+      });
+    </script>
+  </body>
+</html>
