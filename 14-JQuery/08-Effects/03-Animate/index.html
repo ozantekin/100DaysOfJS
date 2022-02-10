@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.js"
+      integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+      crossorigin="anonymous"
+    ></script>
+    <!--normal akışta hareket ettirebilmek için absolute seçmemiz gerek-->
+    <style>
+      #box {
+        position: absolute;
+        top: 75px;
+        left: 10px;
+        width: 150px;
+        height: 150px;
+        background-color: blueviolet;
+      }
+    </style>
+  </head>
+  <body>
+    <button id="animate">play</button>
+    <div id="box">hello</div>
+
+    <script>
+      $(document).ready(function () {
+        $("#animate").click(function () {
+          // 2 animasyon kullanacaz daha rahat ve temiz bir işlem olması için var kullandım
+          var box = $("#box");
+
+          box.animate(
+            {
+              left: "200px",
+              width: "300px",
+              height: "300px",
+            },
+            "3000" // animasyonun hızı ms,slow,fast
+          );
+          box.animate({ fontSize: "100px" }, "slow", function () {
+            alert("animasyon tamamlandi"); // 2 animasyon birlikte ekleyebiliriz
+          });
+        });
+      });
+    </script>
+  </body>
+</html>
