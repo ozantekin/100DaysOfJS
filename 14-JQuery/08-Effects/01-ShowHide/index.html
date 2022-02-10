@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.js"
+      integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <p>Jquery Effects & Show-Hide</p>
+    <button id="hide">hide</button>
+    <button id="show">show</button>
+    <button id="toggle">toggle</button>
+
+    <script>
+      // display özelliği ile oyanayacağız
+
+      $(document).ready(function () {
+        $("#hide").click(function () {
+          $("p").hide("slow", function () {
+            alert("paragraf gizlendi");
+          });
+        });
+
+        $("#show").click(function () {
+          $("p").show("fast");
+        });
+
+        // tek tuş ile show ve hide görevi alır tek buton 2 effects
+        $("#toggle").click(function () {
+          $("p").toggle("3000");
+        });
+      });
+    </script>
+  </body>
+</html>
