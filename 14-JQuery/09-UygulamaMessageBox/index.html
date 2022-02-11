@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--Linearicons-->
+    <link
+      rel="stylesheet"
+      href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css"
+    />
+    <title>Document</title>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.js"
+      integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+      crossorigin="anonymous"
+    ></script>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-size: 1.3rem;
+      }
+      #message-box {
+        background-color: blueviolet;
+        text-align: center;
+        color: white;
+      }
+      #header {
+        height: 1.5rem;
+        padding: 1rem;
+        border-bottom: 1px solid white;
+        cursor: pointer;
+      }
+      #close {
+        float: right;
+      }
+      #close:hover {
+        color: aqua;
+      }
+      #content {
+        height: 7rem;
+        padding: 1rem;
+        display: none;
+      }
+      a {
+        color: white;
+        text-decoration: none; /* Başta gözükmesini istemiyoruz */
+      }
+      a:hover {
+        color: aqua;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="message-box">
+      <div id="header">
+        Bildiriminiz var!
+        <span id="close" class="lnr lnr-cross"></span>
+      </div>
+      <div id="content">
+        YouTube kanalı açıldı gitmek için
+        <a
+          target="blank"
+          href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw"
+          >tıkla</a
+        >.
+      </div>
+    </div>
+
+    <script>
+      $(document).ready(function () {
+        $("#header").click(function () {
+          $("#content").toggle("slow");
+        });
+        $("#close").click(function () {
+          $("#message-box").hide("fast");
+        });
+      });
+    </script>
+  </body>
+</html>
