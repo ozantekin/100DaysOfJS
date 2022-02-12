@@ -1,0 +1,1 @@
+- Google üzerinden jquery plugins diyerek hazır kodlara ulaşabilirsiniz.
