@@ -1,0 +1,5 @@
+- validation işlemleri için kullanabileceğiniz link
+  - jquery validation plugins yazığınız zaman karşınıza bir sürü site çıkacaktır.
+    - örnek site: https://www.sitepoint.com/10-jquery-form-validation-plugins/
+- kullanabileceğiniz böyle sayısız validation kütüphanesi mevcut bunları kullanabilirsiniz.
+  - Ama jquery öğrenme aşamasında olduğumuz için kendimiz yazdık
