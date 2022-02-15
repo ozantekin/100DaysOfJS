@@ -1,0 +1,8 @@
+- primitives: 
+  - numbers 
+  - strings
+  - booleans
+  - undefined
+  - null
+    - bunlar sadece tek bir değer tutar ve bize ekstra bir özellik getirmez.
+- Diğer her şey object olur
