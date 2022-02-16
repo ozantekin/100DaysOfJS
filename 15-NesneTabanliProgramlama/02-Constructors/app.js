@@ -27,7 +27,7 @@ console.log("---------------------------------------");
 console.log(ozan.name);
 console.log(ozan.yearOfBirth);
 console.log(ozan.occupation);
-console.log(ozan.calculateAge()); // function olduğu için parantez açıp kapatıyoruz
+console.log(ozan.calculateAge()); //function olduğu için parantez açıp kapatıyoruz
 console.log("---------------------------------------");
 console.log(nida.name);
 console.log(nida.yearOfBirth);
@@ -53,7 +53,7 @@ let nidaNew= new infoNew("nida new","2005","doctor");
 console.log(ozanNew.name);
 console.log(ozanNew.yearOfBirth);
 console.log(ozanNew.occupation);
-console.log(ozanNew.calculateAge()); // function olduğu için parantez açıp kapatıyoruz
+console.log(ozanNew.calculateAge()); //function olduğu için parantez açıp kapatıyoruz
 console.log("---------------------------------------");
 console.log(nidaNew.name);
 console.log(nidaNew.yearOfBirth);
