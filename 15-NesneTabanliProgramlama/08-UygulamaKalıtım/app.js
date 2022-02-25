@@ -67,3 +67,25 @@ h1.introduce();  // person dan getirdik
 h1.teach();  // teacher dan getirdik
 
 h1.shareTask();   // headmaster dan getirdik
+
+// parents
+
+function father(name,occupation){
+    person.call(this,name);
+    this.occupation=occupation;
+}
+
+father.prototype=Object.create(person.prototype);
+
+father.prototype.constructor=father;
+
+father.prototype.job= function (){
+    console.log("i am a " +this.occupation + " of a company");
+}
+
+
+let dad=new father("ekrem","ceo");
+
+dad.introduce();
+
+dad.job();
