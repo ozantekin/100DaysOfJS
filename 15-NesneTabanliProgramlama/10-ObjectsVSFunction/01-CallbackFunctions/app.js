@@ -8,7 +8,7 @@ function multipleByTwo(a,b,c){
     return arr; // doldurduğumuz diziyi geriye gönderiyoruz
 }
 
-val=multipleByTwo(5,10,20); // 2 katına adlık 
+val=multipleByTwo(5,10,20); // 2 katına aldık 
 
 //console.log(val);
 
@@ -18,7 +18,7 @@ function addOne(a){
     return a+1;
 }
 
-//val=addOne(10); // 1kledik 
+//val=addOne(10); // 1ekledik 
 
 //console.log(val1);
 
@@ -28,7 +28,7 @@ function addOne(a){
         val[i]=addOne(val[i]);
     }
 
-console.log(val);  // 2 katına aldık sonra 1 ekledik
+console.log(val);  // 2 katını aldık sonra 1 ekledik
 
 //-------------------------------------------------------------------------
 
