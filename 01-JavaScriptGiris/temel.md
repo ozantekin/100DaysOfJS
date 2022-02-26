@@ -1,1 +1,2 @@
-- JavaScript nedir hakkında temel bilgiler için bunu okumanı öneririm <a>https://twitter.com/ozantekindev/status/1479730659287519234<a/>.
+- JavaScript nedir hakkında temel bilgiler için <a href="https://twitter.com/ozantekindev/status/1479730659287519234">bunu</a> okumanızı öneririm.
+- Tüm cheat sheet'lere <a href="https://medium.com/@ozantekindev/javascript-handmade-10-t%C3%BCrk%C3%A7e-cheat-sheet-7d63132ea61a">buradan</a> ulaşabilirsiniz.
