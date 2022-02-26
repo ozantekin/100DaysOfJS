@@ -10,7 +10,7 @@ function welcome(){
 
 console.log(welcome());
 
-// sayfa yüklendiği anda bu mesajın gelmesini istiyoruz bunun için immediate functionlar işimize yarayacak
+// sayfa yüklendiği anda bu mesajın sadece bir kere gelmesini istiyoruz bunun için immediate functionlar işimize yarayacak
 
 // 1.yol
 // (function(){
