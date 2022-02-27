@@ -52,15 +52,6 @@
 
 <hr>
 
-<h3 align="center">Sosyal Medya</h3>
+<h3 align="center"> 🔗Sosyal Medya</h3>
 
-
-- Twitter : <a href="https://twitter.com/ozantekindev"> Paylaştığım içerikler gelişmenizi hızlandıracaktır.</a>
-
-- Medium : <a href="https://medium.com/@ozantekindev">Burası benim crib note’m.</a>
-
-- Instagram : <a href="https://medium.com/@ozantekindev">Bütün hazırlamış olduğum cheat sheetleri ve reels paylaşımlarını kaçırmayın.</a>
-
-- Youtube : <a href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw">Gelin birlikte kodlayalım.</a>
-
-- Tanışalım : <a href="https://superpeer.com/ozantekin">1:1 Görüşmeler için aktif bir şekilde kullanacağım.</a>
+  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ozantekindev) [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ozantekindev)  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ozantekindev/) [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw)
