@@ -26,8 +26,8 @@
 | `12` | **[Dom Projesi - Todo Uygulaması](https://github.com/ozantekin/100DaysOfJS/tree/main/12-DomProjesi-ToDoUygulamasi)** | `Tamamlandı`
 | `13` | **[Dom Projesi - Slider Uygulaması](https://github.com/ozantekin/100DaysOfJS/tree/main/13-DomProjesiSliderUygulamasi)** | `Tamamlandı`
 | `14` | **[JQuery](https://github.com/ozantekin/100DaysOfJS/tree/main/14-JQuery)** | `Tamamlandı` 
-| `15` | **[Nesne Tabanlı Programlama](https://github.com/ozantekin/100DaysOfJS/tree/main/15-NesneTabanliProgramlama)** | `Devam Ediyor` 
-| `16` | **[Hata Yönetimi]()** | `Gelecek Konu`
+| `15` | **[Nesne Tabanlı Programlama](https://github.com/ozantekin/100DaysOfJS/tree/main/15-NesneTabanliProgramlama)** | `Tamamlandı` 
+| `16` | **[Hata Yönetimi]()** | `Devam Ediyor`
 | `17` | **[Quiz Uygulaması]()** | `Gelecek Konu`
 | `18` | **[Modern JavaScript Teknikleri - ES6+ / ES7]()** | `Gelecek Konu`
 | `19` | **[Dinamik Kurs Projesi (Uygulama)]()** | `Gelecek Konu`
