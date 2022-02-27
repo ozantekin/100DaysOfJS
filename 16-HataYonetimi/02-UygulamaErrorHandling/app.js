@@ -28,5 +28,5 @@ document.getElementById("btn").addEventListener("click",function(e){
     }
     
 
-    e.preventDefault();
+    e.preventDefault(); // fonksiyon çağırıldığında oluşan eventin işlevini geçersiz kılar
 });
