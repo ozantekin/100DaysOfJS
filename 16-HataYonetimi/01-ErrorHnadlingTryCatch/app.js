@@ -30,7 +30,7 @@ var user = {
 
 try{
 console.log(user.name);
-console.log(user.email); // undefined olarak çıktı alırız bize olmadığınızsöyler bunu hata olarak algılatabiliriz.
+console.log(user.email); // undefined olarak çıktı alırız bize olmadığını söyler. bunu hata olarak algılatabiliriz aşağıda hata olarak çıktı aldıracaz
 if(!user.email){
     throw new SyntaxError("user has no email"); 
 }
