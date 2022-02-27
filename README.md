@@ -12,31 +12,31 @@
 
 |Sıra|Konu Başlıkları  |
 |--|--|
-|0 |[JavaScript Giriş :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/01-JavaScriptGiris) |
-|1  |[Değişkenler :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/02-Degiskenler)  |
-|2  |[Operatörler :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/03-Operatorler)  |
-|3  |[Veri Yapıları :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/04-VeriYapilari)  |
-|4  |[Diziler :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/05-Diziler)  |
-|5  |[Koşul İfadeleri :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/06-KosulIfadeleri)  |
-|6  |[Döngüler :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/07-Donguler)  |
-|7  |[Fonksiyonlar :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/08-Fonksiyonlar)  |
-|8  |[Dom :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/09-Dom)  |
-|9  |[Events :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/10-Events)  |
-|10  |[LocalStorage :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/11-LocalStorage)  |
-|11  |[Dom Projesi - Todo Uygulaması :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/12-DomProjesi-ToDoUygulamasi)  |
-|12  |[Dom Projesi - Slider Uygulaması :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/13-DomProjesiSliderUygulamasi)  |
-|13  |[JQuery :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/14-JQuery)  |
-|14  |[Nesne Tabanlı Programlama](https://github.com/ozantekin/100DaysOfJS/tree/main/15-NesneTabanliProgramlama)  |
-|15  |[Hata Yönetimi]()  |
-|16  |[Quiz Uygulaması]()  |
-|17  |[Modern JavaScript Teknikleri - ES6+ / ES7]()  |
-|18  |[Dinamik Kurs Projesi (Uygulama)]()  |
-|19  |[Restful Api & AJAX]()  |
-|20  |[Restful Api Projesi (Uygulama)]()  |
-|21  |[JavaScript Modül Mantığı]()  |
-|22  |[JavaScript Modülleri Uygulama]()  |
-|23  |[Nodejs & Npm]()  |
-|24  |[TypeScript]()  |
+|01 |[JavaScript Giriş :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/01-JavaScriptGiris) |
+|02  |[Değişkenler :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/02-Degiskenler)  |
+|03  |[Operatörler :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/03-Operatorler)  |
+|04  |[Veri Yapıları :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/04-VeriYapilari)  |
+|05 |[Diziler :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/05-Diziler)  |
+|06  |[Koşul İfadeleri :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/06-KosulIfadeleri)  |
+|07  |[Döngüler :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/07-Donguler)  |
+|08  |[Fonksiyonlar :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/08-Fonksiyonlar)  |
+|09  |[Dom :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/09-Dom)  |
+|10  |[Events :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/10-Events)  |
+|11  |[LocalStorage :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/11-LocalStorage)  |
+|12  |[Dom Projesi - Todo Uygulaması :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/12-DomProjesi-ToDoUygulamasi)  |
+|13  |[Dom Projesi - Slider Uygulaması :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/13-DomProjesiSliderUygulamasi)  |
+|14  |[JQuery :white_check_mark:](https://github.com/ozantekin/100DaysOfJS/tree/main/14-JQuery)  |
+|15  |[Nesne Tabanlı Programlama](https://github.com/ozantekin/100DaysOfJS/tree/main/15-NesneTabanliProgramlama)  |
+|16  |[Hata Yönetimi]()  |
+|17  |[Quiz Uygulaması]()  |
+|18  |[Modern JavaScript Teknikleri - ES6+ / ES7]()  |
+|19  |[Dinamik Kurs Projesi (Uygulama)]()  |
+|20  |[Restful Api & AJAX]()  |
+|21  |[Restful Api Projesi (Uygulama)]()  |
+|22  |[JavaScript Modül Mantığı]()  |
+|23  |[JavaScript Modülleri Uygulama]()  |
+|24  |[Nodejs & Npm]()  |
+|25  |[TypeScript]()  |
 
 ###### Ekleme ve güncellemeler yapabilirim ama ana hatlarıyla çalışacağım konular bunlardır.
 
@@ -61,6 +61,6 @@
 
 - Instagram : <a href="https://medium.com/@ozantekindev">Bütün hazırlamış olduğum cheat sheetleri ve reels paylaşımlarını kaçırmayın.</a>
 
-- Youtube : <a href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw">Ekipmanları tamamlandıktan sonra gelin birlikte kodlayalım.</a>
+- Youtube : <a href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw">Gelin birlikte kodlayalım.</a>
 
 - Tanışalım : <a href="https://superpeer.com/ozantekin">1:1 Görüşmeler için aktif bir şekilde kullanacağım.</a>
