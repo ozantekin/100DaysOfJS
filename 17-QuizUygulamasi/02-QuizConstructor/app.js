@@ -9,14 +9,6 @@ Question.prototype.checkAnswer=function(answer){
     return this.userAnswer===answer;
 }
 
-var q1=new Question("what is the best programming?",["javascript","solidity","php","pyhton"],"javascript");
-
-var q2= new Question("what is the most popular language?",["c#","visual basic","nodejs","javascript"],"javascript");
-
-var q3=new Question("what is the best modern programming language?",["c#","javascript","pyhton","asp.net"]);
-
-var questions=[q1,q2,q2];
-
 // quiz constructor
 function Quiz(questions){
     this.questions=questions;
@@ -36,13 +28,21 @@ Quiz.prototype.isFinish=function(){
 
 // quiz guess
 Quiz.prototype.guess=function(answer){ // answer parametresi soruye verilen cevap anlamına gelir
-    var questions=this.getQuestion(); 
+    var question=this.getQuestion(); 
 
-    if(questions.checkAnswer(answer)){
+    if(question.checkAnswer(answer)){
         this.score++; // user 1 tane doğru cevap vermiş anlamına gelir
     }
     this.questionIndex++; // bir sonraki soru gelmesi için yaparız
 }
+
+var q1=new Question("what is the best programming?",["javascript","solidity","php","pyhton"],"javascript");
+
+var q2= new Question("what is the most popular language?",["c#","visual basic","nodejs","javascript"],"javascript");
+
+var q3=new Question("what is the best modern programming language?",["c#","javascript","pyhton","asp.net"]);
+
+var questions=[q1,q2,q2];
 
 // start quiz
 var quiz = new Quiz(questions);
