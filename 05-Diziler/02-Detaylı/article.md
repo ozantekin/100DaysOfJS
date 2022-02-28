@@ -1,0 +1,1 @@
+Array Hakkında detaylı ve açık bir şekilde yazmış olduğum makaleye <a href="">buradan</a> ulaşabilirsiniz.
