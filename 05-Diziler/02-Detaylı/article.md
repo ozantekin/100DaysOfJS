@@ -1,1 +1,1 @@
-Array Hakkında detaylı ve açık bir şekilde yazmış olduğum makaleye <a href="">buradan</a> ulaşabilirsiniz.
+Array Hakkında detaylı ve açık bir şekilde yazmış olduğum makaleye <a href="https://medium.com/@ozantekindev/javascript-array-hakk%C4%B1nda-her-%C5%9Fey-3c7f6c6435a7">buradan</a> ulaşabilirsiniz.
