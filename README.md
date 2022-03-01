@@ -42,16 +42,6 @@
 
 <hr>
 
-<h3 align="center">Birlikte Gelişelim, Ekipleşelim!</h3>
-
-- Eğer hangi dil ile başlamam gerekiyor ne yapmalıyım diyorsanız hayata geçireceğim eğitim modulünü inceleyelim: 
-  
-- Yeni başlayacak arkadaşlar için adım adım eğitim serisi oluşturdum. Tanışalım, Mentorluk ve son olarak Birlikte Çalışalım adımlarıyla yazılıma giriş yapabilirsiniz. Bu sistemin amacı yazılıma giriş yaparken aklınızdaki soru işaretlerini gidermek, seçmek istediğiniz alan hakkında size yardımcı olmak, motivasyon kaybını önlemek ve son olarak 21 gün kuralına uyarak istikrar sağlamak. İyi çalışmalar. Esen kalın.
-
-- Eğer eğitim hakkında detaylı bilgi almak istiyorsanız gelin konuşalım <a>https://superpeer.com/ozantekin<a/>.
-
-<hr>
-
 <h3 align="center"> 🔗Sosyal Medya</h3>
 
   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ozantekindev) [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ozantekindev)  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ozantekindev/) [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw)
