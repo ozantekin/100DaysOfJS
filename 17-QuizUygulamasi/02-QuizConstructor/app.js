@@ -42,7 +42,7 @@ var q2= new Question("what is the most popular language?",["c#","visual basic","
 
 var q3=new Question("what is the best modern programming language?",["c#","javascript","pyhton","asp.net"],"javascript");
 
-var questions=[q1,q2,q2];
+var questions=[q1,q2,q3];
 
 // start quiz
 var quiz = new Quiz(questions);
