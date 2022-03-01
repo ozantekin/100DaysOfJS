@@ -40,7 +40,7 @@ var q1=new Question("what is the best programming?",["javascript","solidity","ph
 
 var q2= new Question("what is the most popular language?",["c#","visual basic","nodejs","javascript"],"javascript");
 
-var q3=new Question("what is the best modern programming language?",["c#","javascript","pyhton","asp.net"]);
+var q3=new Question("what is the best modern programming language?",["c#","javascript","pyhton","asp.net"],"javascript");
 
 var questions=[q1,q2,q2];
 
