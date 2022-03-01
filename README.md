@@ -28,8 +28,8 @@
 | `14` | **[JQuery](https://github.com/ozantekin/100DaysOfJS/tree/main/14-JQuery)** | `Tamamlandı` 
 | `15` | **[Nesne Tabanlı Programlama](https://github.com/ozantekin/100DaysOfJS/tree/main/15-NesneTabanliProgramlama)** | `Tamamlandı` 
 | `16` | **[Hata Yönetimi](https://github.com/ozantekin/100DaysOfJS/tree/main/16-HataYonetimi)** | `Tamamlandı`
-| `17` | **[Quiz Uygulaması](https://github.com/ozantekin/100DaysOfJS/tree/main/17-QuizUygulamasi)** | `Devam Ediyor`
-| `18` | **[Modern JavaScript Teknikleri - ES6+ / ES7]()** | `Gelecek Konu`
+| `17` | **[Quiz Uygulaması](https://github.com/ozantekin/100DaysOfJS/tree/main/17-QuizUygulamasi)** | `Tamamlandı`
+| `18` | **[Modern JavaScript Teknikleri - ES6+ / ES7]()** | `Devam ediyor`
 | `19` | **[Dinamik Kurs Projesi (Uygulama)]()** | `Gelecek Konu`
 | `20` | **[Restful Api & AJAX]()** | `Gelecek Konu` 
 | `21` | **[Restful Api Projesi (Uygulama)]()** | `Gelecek Konu`
