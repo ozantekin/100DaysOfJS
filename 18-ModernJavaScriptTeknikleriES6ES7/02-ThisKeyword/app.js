@@ -5,7 +5,7 @@ var list = {
     substitute : function(){
         this.players.map(function(player){
             console.log(`${this.team} ${player}`); // this.team undefined alırız çünkü team burada tanımlanmıyor. Yeni bir function olduğu için yeni bir context oluşturuldu.
-        })
+        });
     }
 }
 
@@ -22,7 +22,7 @@ var list = {
         var self = this; // this referance aldık. 
         this.players.map(function(player){
             console.log(`${self.team} ${player}`); 
-        })
+        });
     }
 }
 
@@ -38,11 +38,25 @@ var list = {
         //ES6
         this.players.map((player) =>{ // arrow burada yeni özel bir this objesi oluşturmuyor.
             console.log(`${this.team} ${player}`); 
-        })
+        });
     }
 }
 
 list.substitute();
+
+console.log("------------------------------------------------------");
+
+var arrowFunction ={
+    issue : "Arrow Function",
+    sections : ["Nedir?","Nasıl Kullanılır","Detaylı ES5 vs ES6"],
+    topic: function (){
+      this.sections.map((section) => {
+        console.log(`${this.issue} ${section}`);
+      });
+    }
+  }
+  
+  arrowFunction.topic();
 
 // NaN sample
 function game(){
