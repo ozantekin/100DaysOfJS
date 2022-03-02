@@ -1,1 +1,1 @@
-- JavaScript Arrow Function: Nedir ve Nasıl Kullanılır (ES5 vs ES6)+(11 Cheat Sheet) hakkında yazmış olduğum makaleyi <a href="https://twitter.com/ozantekindev/status/1479730659287519234">buradan</a> okuyabilirsiniz.
+- JavaScript Arrow Function: Nedir ve Nasıl Kullanılır (ES5 vs ES6)+(11 Cheat Sheet) hakkında yazmış olduğum makaleyi <a href="https://medium.com/@ozantekindev/javascript-arrow-function-nedir-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-es5-vs-es6-7af97a021153">buradan</a> okuyabilirsiniz.
