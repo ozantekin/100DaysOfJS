@@ -48,7 +48,7 @@ console.log("------------------------------------------------------");
 
 var arrowFunction ={
     issue : "Arrow Function",
-    sections : ["Nedir?","Nasıl Kullanılır","Detaylı ES5 vs ES6"],
+    sections : ["Nedir?","Nasıl Kullanılır?","Detaylı ES5 vs ES6."],
     topic: function (){
       this.sections.map((section) => {
         console.log(`${this.issue} ${section}`);
