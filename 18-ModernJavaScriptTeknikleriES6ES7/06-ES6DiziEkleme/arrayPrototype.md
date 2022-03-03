@@ -1,0 +1,1 @@
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array?retiredLocale=en">Buradan</a> bütün method'lara ulaşabilirisiniz.
