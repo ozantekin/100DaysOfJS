@@ -38,7 +38,7 @@ console.log(ozan);
 console.log(nida);
 
 /* 
-    perseonES6, personES6 
+    personES6, personES5
     ikisinde de arka tarafta aynı işlemi yapar. 
     Oluşturulan instance içinde oluşturulan alanlar (name,occupation,yearOfBirt) kopyası çıkartılır. 
     Bu her instance için yapılır (ozan,nida,...)
