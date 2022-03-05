@@ -31,9 +31,18 @@ UI.prototype.clearControls=function(){
     const image=document.getElementById("image").value="";
  }
 
+  // delete 
  UI.prototype.deleteCourse = function(element){
-     if(element.classList.contains("delete")) { // conatins: içermek
+     if(element.classList.contains("delete")) { // conatins: içermek // classList ile bütün classlara ulaşırız sonra contains ile aradığımız ve içeren classa ulaşırız.
         element.parentElement.parentElement.remove();
+        /* 
+        biz a dayız (delete a içinde)
+        a  <td> içinde
+        <td> ise <tr> içinde
+        silmek istediğimiz <tr>
+        o yüzden parentElement ile a dan <td>
+        sonra 2.pranetElement ile <td> den <tr> geliriz sonra remove uygularız.
+        */
      }
  }
 
@@ -66,6 +75,6 @@ document.getElementById("new-course").addEventListener("submit",function(e){
 });
 
 document.getElementById("course-list").addEventListener("click",function(e){
-    const ui = new UI();
+    const ui = new UI(); // tasarımal alakalı bir işlem olduğu için => // creat UI altında bulunanı kullanacağız.
     ui.deleteCourse(e.target);
 });
