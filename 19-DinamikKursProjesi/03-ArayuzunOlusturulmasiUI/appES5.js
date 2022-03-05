@@ -54,11 +54,7 @@ document.getElementById("new-course").addEventListener("submit",function(e){
     ui.addCourseToList(course);
 
     // clear controls
-    ui.clearControls(); 
-
-    console.log(course);
-
-    
+    ui.clearControls();    
 
     e.preventDefault(); // reminder: burada submit olayını kesiyoruz. Kesmezsek, sayfa submit olur sürekli. (resresh)
 });
