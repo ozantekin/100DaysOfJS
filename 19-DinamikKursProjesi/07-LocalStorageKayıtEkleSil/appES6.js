@@ -24,14 +24,13 @@ class UI{
         </tr>
         `;
 
-        list.innerHTML+=html;
+        list.innerHTML +=html;
     }
 
     clearControls(){
-        
-        const title = document.getElementById("title");
-        const instructor=document.getElementById("instructor");
-        const image=document.getElementById("image");
+        const title = document.getElementById("title").value="";
+        const instructor=document.getElementById("instructor").value="";
+        const image=document.getElementById("image").value="";
 
     }
 
