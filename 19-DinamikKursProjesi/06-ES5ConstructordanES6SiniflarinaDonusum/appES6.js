@@ -36,6 +36,7 @@ class UI{
        
         if(element.classList.contains("delete")){
             element.parentElement.parentElement.remove();
+            return true;
         }
 
     }
@@ -92,8 +93,8 @@ document.getElementById("course-list").addEventListener("click",function(e){
     
     const ui= new UI();
 
-    ui.deleteCourse(e.target);
-
-    ui.showAlert("Kurs silindi","danger");
+    if(ui.deleteCourse(e.target)){
+        ui.showAlert("Kurs silindi","danger");
+    }
 });
 
