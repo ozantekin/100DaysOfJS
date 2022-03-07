@@ -38,6 +38,7 @@ class UI{
        
         if(element.classList.contains("delete")){
             element.parentElement.parentElement.remove();
+            return true;
         }
 
     }
@@ -145,11 +146,12 @@ document.getElementById("course-list").addEventListener("click",function(e){
     const ui= new UI();
 
     // delete course
-    ui.deleteCourse(e.target);
-
-    // delete from local storage
+    if(ui.deleteCourse(e.target)){
+        // delete from local storage
     Storage.deleteCourse();
 
     ui.showAlert("Kurs silindi","danger");
+
+    }
 });
 
