@@ -94,6 +94,6 @@ document.getElementById("course-list").addEventListener("click",function(e){
 
     ui.deleteCourse(e.target);
 
-    ui.showAlert("Kurs silindi");
+    ui.showAlert("Kurs silindi","danger");
 });
 
