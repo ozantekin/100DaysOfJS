@@ -35,7 +35,7 @@ UI.prototype.clearControls=function(){
  UI.prototype.deleteCourse = function(element){
      if(element.classList.contains("delete")) { 
         element.parentElement.parentElement.remove();
-        
+        return true;
      }
  }
 
@@ -101,7 +101,9 @@ document.getElementById("new-course").addEventListener("submit",function(e){
 
 document.getElementById("course-list").addEventListener("click",function(e){
     const ui = new UI(); // tasarımal alakalı bir işlem olduğu için => // creat UI altında bulunanı kullanacağız.
-    ui.deleteCourse(e.target);
+    if(ui.deleteCourse(e.target)){
     // alert
     ui.showAlert("Kurs silindi","danger");
+    }
+    
 });
