@@ -1,18 +1,3 @@
-```javascript
-xmr.open("GET","msg.tx",true);
-
-xhr.send();
-```
-
-- server'dan bir bilgi talep ederken genellikle GET kullanıyoruz.
-- POST ise server'a bilgi upload ederken ya da veri tabanında bir güncelleme yaparken
--  güncelleme yapacağmız bilgileri server tarafında POST ederiz
-- 3.parametre ise request'tin asenkron mu senkron mu olduğnu bildirir.
-- true: asenkron |false:senkron
-- xhr.send(); gönderir ve yazdırtırız
-
-
-
 <h1>readState</h1>   
 
 - 0: Request henüz başlatılmamış (request not initialized)

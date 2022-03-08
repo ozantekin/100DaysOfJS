@@ -24,6 +24,14 @@ xhr.onprogress =  () => {
 
 xhr.open("GET","msg.txt",true);
 xhr.send();
+/*
+server'dan bir bilgi talep ederken genellikle GET kullanıyoruz.
+POST ise server'a bilgi upload ederken ya da veri tabanında bir güncelleme yaparken
+güncelleme yapacağmız bilgileri server tarafında POST ederiz
+3.parametre ise request'tin asenkron mu senkron mu olduğnu bildirir.
+true: asenkron |false:senkron
+xhr.send(); gönderir ve yazdırtırız
+*/
 
 console.log("JavaScript"); 
 /*
