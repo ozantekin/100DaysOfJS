@@ -1,0 +1,7 @@
+{
+    "developers" : [
+        {"firstName":"Ozan", "lastName":"Tekin","age":22,"retired":false},
+        {"firstName":"Aram", "lastName": "Tekin","age":24, "retired":false},
+        {"firstName":"Ardıl","lastName":"Tekin","age":51, "retired":true}
+    ]
+}
