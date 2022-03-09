@@ -6,6 +6,8 @@
 
 - Konular klasör klasör ayrılıp klasörlerin içinde kaynak kodları, yararlandığım kaynakları ve cheat sheetler'i bulabilirsiniz.
 
+- <a href="https://www.youtube.com/c/OzanTekin">YouTube</a> üzerinde de içerikler üretmeye çalışıyorum incelemeniz faydanıza olacaktır.
+
 <hr/>
 
 <h2 align="center">Konular </h2>
