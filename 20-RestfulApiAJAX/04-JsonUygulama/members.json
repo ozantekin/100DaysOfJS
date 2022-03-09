@@ -1,0 +1,20 @@
+[
+{
+    "firstName":"Nida",
+    "lastName": "Tekin",
+    "age": 22,
+    "member": true
+},
+{
+    "firstName":"Ozan",
+    "lastName": "Tekin",
+    "age": 22,
+    "member": true
+},
+{
+    "firstName":"Yiğit",
+    "lastName": "Tekin",
+    "age": 7,
+    "member": true
+}
+]

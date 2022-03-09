@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+  </head>
+  <body>
+      
+    <div class="container mt-2">
+        <div class="row">
+            <div class="col">
+              <button class="btn btn-warning" id="getMember">Get Member</button>
+              <div id="loading">
+                    <img src="loading.gif" alt="loading" width="150">
+                </div>
+
+              <table class="mt-3 table table-bordered table-striped">
+                  <thead>
+                      <tr>
+                          <th>
+                              First Name
+                          </th>
+                          <th>
+                              Last Name
+                          </th>
+                          <th>
+                              Age
+                          </th>
+                          <th>
+                              member
+                          </th>
+                      </tr>
+                  </thead>
+                  <tbody  id="members" >
+
+                  </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
+  </body>
+</html>
