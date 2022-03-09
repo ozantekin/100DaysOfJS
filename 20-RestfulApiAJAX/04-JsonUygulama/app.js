@@ -10,7 +10,7 @@ function loadMember (){
     xhr.open("GET","members.json",true);
 
     
-    setInterval(()=>{
+    setTimeout(()=>{
 
          // sorgunun sonlandığını bize söylüyor 
         xhr.onload = function (){
