@@ -43,4 +43,5 @@
 - Medium: <a href="https://medium.com/@ozantekindev">@ozantekindev</a>
 - Twitter: <a href="https://twitter.com/ozantekindev">@ozantekindev</a>
 - Instagram: <a href="https://www.instagram.com/ozantekindev/">@ozantekindev</a>
+- 1:1 Görüşme ve Tanışma için: <a href="https://superpeer.com/ozantekin">Superpeer/OzanTekin</a>
  
