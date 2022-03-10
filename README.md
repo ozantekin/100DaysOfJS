@@ -14,7 +14,7 @@
 
 | Sıra | Konu                | Durum     
 | :-------- | :------------------------- | :-------  
-| `00` | **[Cheat Sheets ve Yazılarım](https://github.com/ozantekin/100DaysOfJS/tree/main/00-CheatSheetsveYaz%C4%B1lar%C4%B1m)** | `Aktif`
+| `00` | **[Yaz, Video & Cheat Sheet](https://github.com/ozantekin/100DaysOfJS/tree/main/00-CheatSheetsveYaz%C4%B1lar%C4%B1m)** | `Güncel`
 | `01` | **[JavaScript Giriş](https://github.com/ozantekin/100DaysOfJS/tree/main/01-JavaScriptGiris)** | `Tamamlandı` 
 | `02` | **[Değişkenler](https://github.com/ozantekin/100DaysOfJS/tree/main/02-Degiskenler)** | `Tamamlandı`
 | `03` | **[Operatörler](https://github.com/ozantekin/100DaysOfJS/tree/main/03-Operatorler)** | `Tamamlandı`
