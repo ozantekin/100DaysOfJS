@@ -41,4 +41,4 @@
 | `24` | **[Nodejs & Npm]()** | `Gelecek Konu`
 | `25` | **[TypeScript]()** | `Gelecek Konu`
  
-###### Ekleme ve güncellemeler yapabilirim ama ana hatlarıyla çalışacağım konular bunlard
+###### Ekleme ve güncellemeler yapabilirim ama ana hatlarıyla çalışacağım konular bunlardır
