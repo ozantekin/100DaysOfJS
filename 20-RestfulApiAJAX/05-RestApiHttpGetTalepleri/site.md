@@ -1,0 +1,3 @@
+- Test amaçlı oluşturulmuş Api'ler için bakabileceğiniz siteler: 
+  - https://jsonplaceholder.typicode.com/
+  - Veya sample Api url yazarsanız Google karşınıza bir çok örnek site çıkaracaktır.
