@@ -35,4 +35,12 @@
 
 ###### Eklemeler ile diama  güncel tutmaya çalışacağım.
 <hr/>
+
+<h4> Aktif Kullandığım hesaplar:</h4>
+
+- YouTube: <a href="https://www.youtube.com/c/OzanTekin">Ozan Tekin</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/ardilozantekin/">Ardıl Ozan Tekin</a>
+- Medium: <a href="https://medium.com/@ozantekindev">@ozantekindev</a>
+- Twitter: <a href="https://twitter.com/ozantekindev">@ozantekindev</a>
+- Instagram: <a href="https://www.instagram.com/ozantekindev/">@ozantekindev</a>
  
