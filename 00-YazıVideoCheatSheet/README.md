@@ -2,7 +2,7 @@
 
 <hr/>
 
-<h3 align="center">Yazıları </h2>
+<h3 align="center">--- Yazılarım ---</h2>
 
 | Sıra | Çalışma Notlarım                | Platform     
 | :-------- | :------------------------- | :-------  
@@ -17,7 +17,7 @@
 
 <hr/>
 
-<h3 align="center">Videolar </h3>
+<h3 align="center">--- Videolarım ---</h3>
 
 | Sıra | Çalışma Videoları                | Konu     
 | :-------- | :------------------------- | :-------  
