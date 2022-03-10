@@ -14,7 +14,7 @@
 | `05` | **[En Yakın Zamanda Eklenecektir]()** | `Reddit`
 | `06` |**[En Yakın Zamanda Eklenecektir]()** | `Stack Overflow`
 
-
+###### Eklemeler ile diama  güncel tutmaya çalışacağım.
 <hr/>
 
 <h3 align="center">--- Videolarım ---</h3>
@@ -32,7 +32,7 @@
 | `08` | **[En Yakın Zamanda Eklenecektir]()** | `Konusu budur`
 | `09` | **[En Yakın Zamanda Eklenecektir]()** | `Konusu budur`
 | `10` | **[En Yakın Zamanda Eklenecektir]()** | `Konusu budur`
- 
+
+###### Eklemeler ile diama  güncel tutmaya çalışacağım.
 <hr/>
  
-###### Ekleme ve güncellemeler yapabilirim ama ana hatlarıyla çalışacağım konular bunlardır
