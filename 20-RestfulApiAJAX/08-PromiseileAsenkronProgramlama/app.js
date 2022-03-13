@@ -6,7 +6,7 @@ var teams = [
     {score:24,team:"Rize",lose:"17"}
 ]
 
-function addTeams(tm,callback){ // ekleme işlemi
+function addTeams(tm){ // ekleme işlemi
 
     return new Promise(function(resolve,reject){
 
