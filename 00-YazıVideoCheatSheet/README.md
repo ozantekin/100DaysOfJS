@@ -2,38 +2,63 @@
 
 <hr/>
 
-<h3 align="center">--- Yazılarım ---</h2>
+<h3 align="center">--- Yazılar ---</h2>
 
 | Sıra | Çalışma Notlarım                | Platform     
 | :-------- | :------------------------- | :-------  
-| `00` | **[En Yakın Zamanda Eklenecektir]()** | `Twitter`
-| `01` | **[En Yakın Zamanda Eklenecektir]()** | `Medium` 
-| `02` | **[En Yakın Zamanda Eklenecektir]()** | `LinkedIn`
-| `03` | **[En Yakın Zamanda Eklenecektir]()** | `Instagram`
-| `04` | **[En Yakın Zamanda Eklenecektir]()** | `Dev Community`
-| `05` | **[En Yakın Zamanda Eklenecektir]()** | `Reddit`
-| `06` |**[En Yakın Zamanda Eklenecektir]()** | `Stack Overflow`
+| `00` | **[JavaScript Nedir?](https://twitter.com/ozantekindev/status/1479730659287519234)** | `Twitter`
+| `01` | **[Var Let Const Arasındaki Farklar](https://medium.com/@ozantekindev/var-let-const-aras%C4%B1ndaki-farklar-97d8c465469c)** | `Medium`
+| `02` | **[Array (Dizi) Cheat Sheet & JavaScript](https://medium.com/@ozantekindev/array-dizi-cheat-sheet-javascript-998c4eb910a6)** | `Medium`
+| `03` | **[JavaScript Hızlı Tekrar Soruları](https://medium.com/@ozantekindev/javascript-h%C4%B1zl%C4%B1-tekrar-sorular%C4%B1-aab08baac51d)** | `Medium`
+| `04` |**[JavaScript Arrow Function: Nedir ve Nasıl Kullanılır (ES5 vs ES6)+(11 Cheat Sheet)](https://medium.com/@ozantekindev/javascript-arrow-function-nedir-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-es5-vs-es6-7af97a021153)** | `Medium`
+| `05` |**[JavaScript Array Hakkında 15 Cheat Sheet](https://medium.com/@ozantekindev/javascript-array-hakk%C4%B1nda-her-%C5%9Fey-3c7f6c6435a7)** | `Medium`
+| `06` |**[JavaScript Handmade 10 Türkçe Cheat Sheet](https://medium.com/@ozantekindev/javascript-handmade-10-t%C3%BCrk%C3%A7e-cheat-sheet-7d63132ea61a)** | `Medium`
+| `07` |**[En İyi JavaScript Repositories 10+](https://medium.com/@ozantekindev/en-i%CC%87yi-javascript-repositories-10-bc9bb08c8929)** | `Medium`
+| `08` |**[Var, Let & Const Farkları ile Küçük Genel Notlar](https://www.linkedin.com/pulse/var-let-const-farklar%C4%B1-ile-k%C3%BC%C3%A7%C3%BCk-genel-notlar-serisi-1-tekin/?published=t)** | `LinkedIn`
+| `09` |**[Javascript'te Array localStorage'da Nasıl Depolanır](https://www.linkedin.com/pulse/javascriptte-array-localstorageda-nas%25C4%25B1l-depolan%25C4%25B1r-ard%25C4%25B1l-ozan-tekin/?trackingId=%2ByLxp%2FOeQvGf82zVCRKfLA%3D%3D)** | `LinkedIn`
+| `10` |**[Sync ve Async Nedir?](https://www.linkedin.com/pulse/sync-ve-async-nedir-javascript-ard%25C4%25B1l-ozan-tekin/?trackingId=GGgKwLSfQ22b03xDSwizUQ%3D%3D)** | `LinkedIn`
 
-###### Eklemeler ile diama  güncel tutmaya çalışacağım.
+###### Eklemeler ile güncel tutmaya çalışacağım.
 <hr/>
 
-<h3 align="center">--- Videolarım ---</h3>
+<h3 align="center">--- Videolar ---</h3>
 
-| Sıra | Çalışma Videoları                | Konu     
+| Sıra | Çalışma Videoları                | Hakkında     
 | :-------- | :------------------------- | :-------  
-| `00` | **[En Yakın Zamanda Eklenecektir]()** | `Konusu budur`
-| `01` | **[En Yakın Zamanda Eklenecektir]()** | `Konusu budur` 
-| `02` | **[En Yakın Zamanda Eklenecektir]()** | `Konusu budur`
-| `03` | **[En Yakın Zamanda Eklenecektir]()** | `Konusu budur`
-| `04` | **[En Yakın Zamanda Eklenecektir]()** | `Konusu budur`
-| `05` | **[En Yakın Zamanda Eklenecektir]()** | `Konusu budur`
-| `06` |**[En Yakın Zamanda Eklenecektir]()** | `Konusu budur`
-| `07` | **[En Yakın Zamanda Eklenecektir]()** | `Konusu budur`
-| `08` | **[En Yakın Zamanda Eklenecektir]()** | `Konusu budur`
-| `09` | **[En Yakın Zamanda Eklenecektir]()** | `Konusu budur`
-| `10` | **[En Yakın Zamanda Eklenecektir]()** | `Konusu budur`
+| `00` | **[JavaScript 1 Soru İle Hızlı Tekrar](https://www.youtube.com/playlist?list=PL4MimQX-iTOKiydxkbr_Wr_rfjWLsXx3i)** | `155 soruluk bir seri`
+| `01` | **[ Dizi Filtreleme]()** | `50 Saniye` 
+| `02` | **[Math.round, Math.floor ve Math.ceil ](https://www.youtube.com/watch?v=MD40aZpC7SM&ab_channel=OzanTekin)** | `1 Dakika`
+| `03` | **[console.log()](https://www.youtube.com/watch?v=QAW2EGNqfNI&ab_channel=OzanTekin)** | `1 Dakika`
+| `04` | **[Copy Array](https://www.youtube.com/watch?v=dw-XhvhNzus&ab_channel=OzanTekin)** | `1 Dakika`
 
-###### Eklemeler ile diama  güncel tutmaya çalışacağım.
+###### Eklemeler ile güncel tutmaya çalışacağım.
+<hr/>
+
+<h3 align="center">--- Cheat Sheet Kütüphanesi ---</h3>
+
+| Sıra | Çalışma Görselleri                | Platform     
+| :-------- | :------------------------- | :-------  
+| `00` | **[ Var, Let, Const detaylı cheat sheet](https://www.instagram.com/p/CZzMDNtMFzV/?utm_source=ig_web_copy_link)** | `Instagram`
+| `01` | **[JavaScript Dizi Metotları tek sayfada](https://www.instagram.com/p/CaCVlF8s1Os/?utm_source=ig_web_copy_link)** | `Instagram` 
+| `02` | **[Document Object Model (DOM)](https://www.instagram.com/p/Caj0ZFQsOBz/?utm_source=ig_web_copy_link)** | `Instagram`
+| `04` | **[JavaScript Dizi Metotları-2 ](https://www.instagram.com/p/CawvnNNsX_d/?utm_source=ig_web_copy_link)** | `Instagram`
+| `05` | **[Data Types hakkında](https://www.instagram.com/p/Ca4ryRLscN2/?utm_source=ig_web_copy_link)** | `Instagram`
+
+###### Eklemeler ile güncel tutmaya çalışacağım.
+<hr/>
+
+<h3 align="center">--- Yararlandığım Kaynaklar ---</h3>
+
+| Sıra | Site                | Yıldız     
+| :-------- | :------------------------- | :-------  
+| `00` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star:
+| `01` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star: 
+| `02` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star: 
+| `03` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star: 
+| `04` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star: 
+| `05` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star: 
+
+###### Eklemeler ile güncel tutmaya çalışacağım.
 <hr/>
 
 <h4> Aktif Kullandığım hesaplar:</h4>
