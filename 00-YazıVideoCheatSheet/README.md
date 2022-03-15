@@ -17,7 +17,8 @@
 | `08` |**[Var, Let & Const Farkları ile Küçük Genel Notlar](https://www.linkedin.com/pulse/var-let-const-farklar%C4%B1-ile-k%C3%BC%C3%A7%C3%BCk-genel-notlar-serisi-1-tekin/?published=t)** | `LinkedIn`
 | `09` |**[Javascript'te Array localStorage'da Nasıl Depolanır](https://www.linkedin.com/pulse/javascriptte-array-localstorageda-nas%25C4%25B1l-depolan%25C4%25B1r-ard%25C4%25B1l-ozan-tekin/?trackingId=%2ByLxp%2FOeQvGf82zVCRKfLA%3D%3D)** | `LinkedIn`
 | `10` |**[Sync ve Async Nedir?](https://www.linkedin.com/pulse/sync-ve-async-nedir-javascript-ard%25C4%25B1l-ozan-tekin/?trackingId=GGgKwLSfQ22b03xDSwizUQ%3D%3D)** | `LinkedIn`
-
+ 
+| `10` |**[Callback, Promises ve Async & Await Nedir?](https://medium.com/@ozantekindev/callback-promises-ve-async-await-nedir-e40b75333743)** | `Medium`
 ###### Eklemeler ile güncel tutmaya çalışacağım.
 <hr/>
 
