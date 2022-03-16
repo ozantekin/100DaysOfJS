@@ -1,0 +1,2 @@
+- https://randomuser.me/
+- https://www.metaweather.com/
