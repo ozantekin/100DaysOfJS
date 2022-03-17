@@ -1,0 +1,3 @@
+- Fetch API sayesinde function ile promise göndermemize gerek kalmadı çünkü fetch API bunu arka tarafta yapıyor.
+  - https://randomuser.me/
+  - https://jsonplaceholder.typicode.com/
