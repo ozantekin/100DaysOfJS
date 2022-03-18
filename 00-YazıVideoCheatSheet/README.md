@@ -52,7 +52,7 @@
 
 | Sıra | Site                | Yıldız     
 | :-------- | :------------------------- | :-------  
-| `00` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star:
+| `00` | **[ 1 Soru ile JavaScript Hızlı Tekrar ](https://github.com/ozantekin/javascript-sorular)** | :star: :star: :star:
 | `01` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star: 
 | `02` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star: 
 | `03` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star: 
