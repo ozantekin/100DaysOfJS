@@ -90,14 +90,36 @@ getTeam()
 
         // async await ile hata yakalayalım şimdi
 
-        async function getFood(){
+        var isWarning= true;
+
+        function getCategory(){
+            return new Promise((resolve,reject)=>{
+                setTimeout(() => {
+                    resolve("phone");
+                }, 2000);
+            });
+        }
+    
+        function getProducts (category){
+            return new Promise ((resolve,reject)=>{
+                setTimeout(() => {
+                    if(!isWarning){
+                        resolve("5 products in ${category}.");
+                    }else{
+                        reject("warning!");
+                    }
+                }, 2000);
+            });
+        }
+
+        async function getProduct(){
 
 
             try{  
-                let category = await getBreakfast();
-                let eat= await getFoods(category);
+                let category = await getCategory();
+                let result= await getProducts(category);
 
-                console.log(eat);
+                console.log(result);
 
             }
             catch(error){
@@ -108,4 +130,5 @@ getTeam()
 
         }
 
+        getProduct();
         
