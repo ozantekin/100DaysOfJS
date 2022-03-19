@@ -115,14 +115,14 @@ getTeam()
         async function getProduct(){
 
 
-            try{  
+            try{  // hata olabiliecek kısımlar buraya yazılır
                 let category = await getCategory();
                 let result= await getProducts(category);
 
                 console.log(result);
 
             }
-            catch(error){
+            catch(error){ // catch ile hata yakalanır 
                 console.log(error);
             }
 
