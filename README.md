@@ -34,8 +34,8 @@
 | `17` | **[Quiz Uygulaması](https://github.com/ozantekin/100DaysOfJS/tree/main/17-QuizUygulamasi)** | `Tamamlandı`
 | `18` | **[Modern JavaScript Teknikleri - ES6+ / ES7](https://github.com/ozantekin/100DaysOfJS/tree/main/18-ModernJavaScriptTeknikleriES6ES7)** | `Tamamlandı`
 | `19` | **[Dinamik Kurs Projesi (Uygulama)](https://github.com/ozantekin/100DaysOfJS/tree/main/19-DinamikKursProjesi)** | `Tamamlandı`
-| `20` | **[Restful Api & AJAX](https://github.com/ozantekin/100DaysOfJS/tree/main/20-RestfulApiAJAX)** | `Devam Ediyor` 
-| `21` | **[Restful Api Projesi (Uygulama)]()** | `Gelecek Konu`
+| `20` | **[Restful Api & AJAX](https://github.com/ozantekin/100DaysOfJS/tree/main/20-RestfulApiAJAX)** | `Tamamlandı` 
+| `21` | **[Restful Api Projesi (Uygulama)]()** | `Devam Ediyor`
 | `22` | **[JavaScript Modül Mantığı]()** | `Gelecek Konu`
 | `23` | **[JavaScript Modülleri Uygulama]()** | `Gelecek Konu`
 | `24` | **[Nodejs & Npm]()** | `Gelecek Konu`
