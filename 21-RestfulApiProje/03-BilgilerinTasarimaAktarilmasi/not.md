@@ -1,0 +1,2 @@
+- https://placeholder.com/
+- https://jsonplaceholder.typicode.com/
