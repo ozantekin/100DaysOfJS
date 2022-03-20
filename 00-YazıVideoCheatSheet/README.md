@@ -18,6 +18,7 @@
 | `09` |**[Javascript'te Array localStorage'da Nasıl Depolanır](https://www.linkedin.com/pulse/javascriptte-array-localstorageda-nas%25C4%25B1l-depolan%25C4%25B1r-ard%25C4%25B1l-ozan-tekin/?trackingId=%2ByLxp%2FOeQvGf82zVCRKfLA%3D%3D)** | `LinkedIn`
 | `10` |**[Sync ve Async Nedir?](https://www.linkedin.com/pulse/sync-ve-async-nedir-javascript-ard%25C4%25B1l-ozan-tekin/?trackingId=GGgKwLSfQ22b03xDSwizUQ%3D%3D)** | `LinkedIn`
 | `11` |**[Callback, Promises ve Async & Await Nedir?](https://medium.com/@ozantekindev/callback-promises-ve-async-await-nedir-e40b75333743)** | `Medium` 
+| `12` |**[JSON.parse () ile JSON.stringify() arasındaki farklar](https://medium.com/@ozantekindev/json-parse-ve-json-stringify-nedir-71e93ab1aaca)** | `Medium` 
 
 ###### Eklemeler ile güncel tutmaya çalışacağım.
 <hr/>
