@@ -35,8 +35,8 @@
 | `18` | **[Modern JavaScript Teknikleri - ES6+ / ES7](https://github.com/ozantekin/100DaysOfJS/tree/main/18-ModernJavaScriptTeknikleriES6ES7)** | `Tamamlandı`
 | `19` | **[Dinamik Kurs Projesi (Uygulama)](https://github.com/ozantekin/100DaysOfJS/tree/main/19-DinamikKursProjesi)** | `Tamamlandı`
 | `20` | **[Restful Api & AJAX](https://github.com/ozantekin/100DaysOfJS/tree/main/20-RestfulApiAJAX)** | `Tamamlandı` 
-| `21` | **[Restful Api Projesi (Uygulama)](https://github.com/ozantekin/100DaysOfJS/tree/main/21-RestfulApiProje)** | `Devam Ediyor`
-| `22` | **[JavaScript Modül Mantığı]()** | `Gelecek Konu`
+| `21` | **[Restful Api Projesi (Uygulama)](https://github.com/ozantekin/100DaysOfJS/tree/main/21-RestfulApiProje)** | `Tamamlandı`
+| `22` | **[JavaScript Modül Mantığı]()** | `Devam Ediyor`
 | `23` | **[JavaScript Modülleri Uygulama]()** | `Gelecek Konu`
 | `24` | **[Nodejs & Npm]()** | `Gelecek Konu`
 | `25` | **[TypeScript]()** | `Gelecek Konu`
