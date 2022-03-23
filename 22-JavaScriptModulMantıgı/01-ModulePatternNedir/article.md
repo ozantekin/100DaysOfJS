@@ -1,0 +1,1 @@
+- Özet makaleyi okumak için <a href="https://medium.com/@ozantekindev/iife-nedir-d7c06bce5cd3"> buraya </a> tıkalayabilirsiniz. 
