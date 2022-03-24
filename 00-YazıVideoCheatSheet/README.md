@@ -19,6 +19,7 @@
 | `10` |**[Sync ve Async Nedir?](https://www.linkedin.com/pulse/sync-ve-async-nedir-javascript-ard%25C4%25B1l-ozan-tekin/?trackingId=GGgKwLSfQ22b03xDSwizUQ%3D%3D)** | `LinkedIn`
 | `11` |**[Callback, Promises ve Async & Await Nedir?](https://medium.com/@ozantekindev/callback-promises-ve-async-await-nedir-e40b75333743)** | `Medium` 
 | `12` |**[JSON.parse () ile JSON.stringify() arasındaki farklar](https://medium.com/@ozantekindev/json-parse-ve-json-stringify-nedir-71e93ab1aaca)** | `Medium` 
+| `13` |**[Module Pattern Nedir?](https://www.linkedin.com/posts/ardilozantekin_javascript-activity-6912650537238675456-SQf0/?utm_source=linkedin_share&utm_medium=member_desktop_web)** | `LinkedIn`
 
 ###### Eklemeler ile güncel tutmaya çalışacağım.
 <hr/>
@@ -53,10 +54,10 @@
 
 | Sıra | Site                | Yıldız     
 | :-------- | :------------------------- | :-------  
-| `00` | **[ 1 Soru ile JavaScript Hızlı Tekrar ](https://github.com/ozantekin/javascript-sorular)** | :star: :star: :star:
-| `01` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star: 
-| `02` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star: 
-| `03` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star: 
+| `00` | **[ Stack Overflow](https://stackoverflow.com/)** | :star: :star: :star: 
+| `01` | **[ MDN ](https://developer.mozilla.org/)** | :star: :star: :star:
+| `02` | **[ W3Shools](https://www.w3schools.com/)** | :star: :star: :star: 
+| `03` | **[ JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)** | :star: :star: :star: 
 | `04` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star: 
 | `05` | **[ En yakın zaman içerisinde eklenecektir]()** | :star: :star: :star: 
 
