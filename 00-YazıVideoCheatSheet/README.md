@@ -20,7 +20,7 @@
 | `11` |**[Callback, Promises ve Async & Await Nedir?](https://medium.com/@ozantekindev/callback-promises-ve-async-await-nedir-e40b75333743)** | `Medium` 
 | `12` |**[JSON.parse () ile JSON.stringify() arasındaki farklar](https://medium.com/@ozantekindev/json-parse-ve-json-stringify-nedir-71e93ab1aaca)** | `Medium` 
 | `13` |**[Module Pattern Nedir?](https://www.linkedin.com/posts/ardilozantekin_javascript-activity-6912650537238675456-SQf0/?utm_source=linkedin_share&utm_medium=member_desktop_web)** | `LinkedIn`
-| `14` |**[DOM Öğelerinin Özellikleri ve Metotları | JavaScript](https://medium.com/@ozantekindev/dom-%C3%B6%C4%9Felerinin-%C3%B6zellikleri-ve-metotlar%C4%B1-5a8dbc16751a)** | `Medium` 
+| `14` |**[DOM Öğelerinin Özellikleri ve Metotları](https://medium.com/@ozantekindev/dom-%C3%B6%C4%9Felerinin-%C3%B6zellikleri-ve-metotlar%C4%B1-5a8dbc16751a)** | `Medium` 
 
 ###### Eklemeler ile güncel tutmaya çalışacağım.
 <hr/>
