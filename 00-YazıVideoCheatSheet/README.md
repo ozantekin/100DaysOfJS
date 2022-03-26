@@ -47,6 +47,8 @@
 | `02` | **[Document Object Model (DOM)](https://www.instagram.com/p/Caj0ZFQsOBz/?utm_source=ig_web_copy_link)** | `Instagram`
 | `04` | **[JavaScript Dizi Metotları-2 ](https://www.instagram.com/p/CawvnNNsX_d/?utm_source=ig_web_copy_link)** | `Instagram`
 | `05` | **[Data Types hakkında](https://www.instagram.com/p/Ca4ryRLscN2/?utm_source=ig_web_copy_link)** | `Instagram`
+| `06` | **[Null ve Undefined arasındaki farklar](https://www.instagram.com/p/CaHqpyBMQlM/?utm_source=ig_web_copy_link)** | `Instagram`
+| `07` | **[JavaScript bilgi haritası](https://www.instagram.com/p/CaM1av4MKQK/?utm_source=ig_web_copy_link)** | `Instagram`
 
 ###### Eklemeler ile güncel tutmaya çalışacağım.
 <hr/>
