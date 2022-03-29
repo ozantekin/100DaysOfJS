@@ -71,7 +71,7 @@ const ProductController = (function(){
 
     //private
     //constructor yarattık 
-    const Product = function (id,name,price){
+    const Product = function (id, name, price){
         this.id=id;
         this.name=name;
         this.price=price;
@@ -515,11 +515,16 @@ const App= (function(ProductCtrl,UICtrl,StorageCtrl){
             UICtrl.createProductList(products); 
 
           }
+            // get total
+            const total = ProductCtrl.getTotal();
 
-           //load event listeners
-           loadEventListeners();
-           
-      }
+            // show total
+            UICtrl.showTotal(total);
+
+            // load event listeners
+            loadEventListeners()
+                    
+        }
   }
 
 })(ProductController, UIController, StorageController); 
