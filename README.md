@@ -37,8 +37,8 @@
 | `20` | **[Restful Api & AJAX](https://github.com/ozantekin/100DaysOfJS/tree/main/20-RestfulApiAJAX)** | `Tamamlandı` 
 | `21` | **[Restful Api Projesi (Uygulama)](https://github.com/ozantekin/100DaysOfJS/tree/main/21-RestfulApiProje)** | `Tamamlandı`
 | `22` | **[JavaScript Modül Mantığı](https://github.com/ozantekin/100DaysOfJS/tree/main/22-JavaScriptModulMant%C4%B1g%C4%B1)** | `Tamamlandı`
-| `23` | **[JavaScript Modülleri Uygulama](https://github.com/ozantekin/100DaysOfJS/tree/main/23-JavaScriptModulUygulama)** | `Devam Ediyor`
-| `24` | **[Nodejs & Npm]()** | `Gelecek Konu`
+| `23` | **[JavaScript Modülleri Uygulama](https://github.com/ozantekin/100DaysOfJS/tree/main/23-JavaScriptModulUygulama)** | `Tamamlandı`
+| `24` | **[Nodejs & Npm]()** | `Devam Ediyor`
 | `25` | **[TypeScript]()** | `Gelecek Konu`
  
 ###### Ekleme ve güncellemeler yapabilirim ama ana hatlarıyla çalışacağım konular bunlardır
