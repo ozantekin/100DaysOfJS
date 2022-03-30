@@ -1,9 +1,7 @@
 <h1 align="center"> Not </h1>
 
-  - jquery yaz.
-
+- jquery yaz.
 - <a href="https://www.npmjs.com/"> Buraya </a> tıklayarak ilgili siteye gelin.
-- 
 - YEREL PAKET: 
   - <a href="https://www.npmjs.com/package/jquery"> Burada </a> bulunan install altındaki kısmı terminale yaz.`npm i jquery`
   - Gerekli bilgi package.json içinde bulunan dependncies kısmına gelir. Bu bize node modules klasörünü silsek bile jquery bağımlılığımız olduğunu bildirir.
