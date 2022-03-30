@@ -1,0 +1,20 @@
+{
+  "name": "100daysofjs-17-01-2022",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">100 GÜNLÜK EĞİTİMİN İÇERİĞİ </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozantekin/100DaysOfJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozantekin/100DaysOfJS/issues"
+  },
+  "homepage": "https://github.com/ozantekin/100DaysOfJS#readme"
+}
