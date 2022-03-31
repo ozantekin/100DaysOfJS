@@ -1,0 +1,11 @@
+var message = "Hello World";
+var count = message.length;
+console.log(message);
+var message1;
+message1 = "Hello World";
+var count1 = message1.length;
+console.log(message1);
+var message2;
+message2 = "Hello World";
+var count2 = message2.length;
+console.log(message2);
