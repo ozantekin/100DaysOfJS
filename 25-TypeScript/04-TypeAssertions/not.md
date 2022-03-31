@@ -18,9 +18,22 @@ message= "Hello World";
 ``` TypeScript 
 let count = message = message.length;
 ```
-- Bu problemin önüne geçmek için string bir türe eşit olduğunu söyleyebiliriz.
+- Bu problemin önüne geçmek için string bir türe eşit olduğunu söyleyebiliriz:
 ``` TypeScript
 let message;
 message = "Hello World";
 let count = (<string>message).length;
+```
+- Bu sayede artık string methodlarını kullanabiliriz.
+- Dikkat: Message içine attığımız tipin dönüştürmek istediğimiz tipe çevriliyor olması gerek. Yoksa hata alırız:
+``` TypeScript
+let message; 
+message= "Hello World";
+let count = (<boolean>message).length;
+``` 
+- Bu yönteme alternatif olarak bu yöntem de kullanılabilir:
+``` TypeScript
+let message;
+message = "Hello World";
+let length = (message as string).length;
 ```
