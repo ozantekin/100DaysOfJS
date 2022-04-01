@@ -96,7 +96,7 @@ let taxi_1: Taxi = new Taxi({ x: 3, y: 5 });
 taxi_1.travelTo({ x: 1, y: 2 });
 ```
 
--this ile belirtememize veya üstte tanımlamamıza gerek kalmadı fark ettiyseniz sildik.
+- this ile belirtememize veya üstte tanımlamamıza gerek kalmadı fark ettiyseniz sildik.
 
 - Artık location ve color sadece class içerisinden ulaşılabilen bir nesne oldu.
 - Örneğin `travelTo` içerisinde location bilgisini kullanalım:
