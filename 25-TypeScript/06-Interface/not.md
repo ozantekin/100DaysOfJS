@@ -103,3 +103,23 @@ travelTo({
     - Yaptığımız kısımda ise araç tanımlarken o aracın hangi özelliklere sahip olması gerektiği gibi bilgileri tutan bir şema gibi düşünebiliriz.
     - Bu şemadan bir nesne yani bir araç tanımlayabilmek için, kopyalayabilmek için bunu class'a çevirmemiz gerekiyor.
     - Şu anlık yaptığımız aracın o anki pozisyonu, hangi noktaya gidecek, herhangi bir noktalar arasındaki mesafei ölçmek, araca yolcu eklemek, ya da araçtan bir yolcuyu silmektir.
+    - Yani artık artık fonksiyonlara ihtiyacaımız yok çünkü biz bunları dışarıda tanımlamak yerine vehicle içinde tanımladık:
+``` typescript
+interface Point{
+    x: number, 
+    y: number
+}
+
+interface Passenger {
+    name: string,
+    phone: string
+}
+
+interface Vehicle {
+    currentLocation: Point;
+    travelTo(point: Point): void;
+    getDistance(pointA: Point, pointB: Point): number;
+    addPassenger(passenger: Passenger): void;
+    removePassenger(passenger: Passenger): void;
+}
+```
