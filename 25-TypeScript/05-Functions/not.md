@@ -70,20 +70,21 @@ const getAverage = ()void=> {
 
 ```
 - Void: Geri dönüş değeri tanımlamadığımızı bu şekilde söyleyip result'un hata alması önüne geçeririz.
-
+- Bir örnek daha:
 ``` typescript
-function getAverage2(a:number, b:number, c?:number) : string {
+function getAverage(a:number, b:number, c?:number) : string {
     let total = a + b;
-    let count2 =2;
+    let count =2;
 
     if(typeof c !== "undefined"){
         total +=c;
-        count2++; 
+        count++; 
     }
 
-    const result = total/count2;
+    const result = total/count;
     return "New Result: " +result;
 }
-getAverage2(10, 20, 30);
-getAverage2(10, 20);
+getAverage(10, 20, 30);
+getAverage(10, 20);
 ```
+- 
