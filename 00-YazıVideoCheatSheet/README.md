@@ -23,7 +23,7 @@
 | `14` |**[DOM Öğelerinin Özellikleri ve Metotları](https://medium.com/@ozantekindev/dom-%C3%B6%C4%9Felerinin-%C3%B6zellikleri-ve-metotlar%C4%B1-5a8dbc16751a)** | `Medium` 
 | `15` |**[JavaScript Alıştırma Yapabileceğiniz 52 Site—YouTube—Repo—PDF](https://medium.com/@ozantekindev/javascript-al%C4%B1%C5%9Ft%C4%B1rma-yapabilece%C4%9Finiz-52-site-youtube-repo-pdf-e3ff1402dbfc)** | `Medium` 
 | `16` |**[Use Strict Nedir?](https://www.linkedin.com/feed/update/urn:li:ugcPost:6914482906174234624?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6914482906174234624%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)** | `LinkedIn`
-| `17` |**[Array Metodları | JavaScript](https://medium.com/@ozantekindev/array-metodlar%C4%B1-javascript-790219ec121b)** | `Medium` 
+| `17` |**[Array 23 Methods](https://medium.com/@ozantekindev/array-metodlar%C4%B1-javascript-790219ec121b)** | `Medium` 
 
 ###### Eklemeler ile güncel tutmaya çalışacağım.
 <hr/>
