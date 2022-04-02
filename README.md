@@ -1,4 +1,5 @@
-<h1 align="center">100 GÜNLÜK EĞİTİMİN İÇERİĞİ |TAMAMLANDI </h1>
+<h1 align="center">100 GÜNLÜK EĞİTİMİN İÇERİĞİ</h1>
+<h3 align="center"> TAMAMLANDI </h3>
 
 - JavaScript çalışırken yararlandığım kaynaklar, yaptığım araştırmalar ve hazırladığım cheat sheetler'e buradan ulaşabilirsiniz.
 
