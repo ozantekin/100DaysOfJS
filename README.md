@@ -1,13 +1,25 @@
-<h1 align="center">100 GÜNLÜK EĞİTİMİN İÇERİĞİ</h1>
-<h3 align="center"> TAMAMLANDI </h3>
+<div align= "center">
+<img  src="https://skillicons.dev/icons?i=js" />
+<h1>100 GÜNLÜK EĞİTİMİN İÇERİĞİ</h1>
+<h3>TAMAMLANDI</h3>
+</div>
 
-- JavaScript çalışırken yararlandığım kaynaklar, yaptığım araştırmalar ve hazırladığım cheat sheetler'e buradan ulaşabilirsiniz.
+- <b> İçerik: </b>
+  - Yararlandığım kaynaklar.
+  - Paylaşmış olduğum bilgiselleri (flood).
+  - Yazmış olduğum makaleler.
+  - Yayınlamış olduğum videolar.
+  - Hazırlamış olduğum hızlı tekrar görselleri (cheat sheet).
+  - Konuyla ilgili uygulamalar ve eğitsel kaynak kodlar.
+- <b> Düzen: </b>
 
-- 100 Gün boyunca çalışmalarımı buradan takip edebilir, hızlı bir şekilde tekrar yapabilir veya paylaştığım kaynaklardan yararlanabilirsiniz.
+  - Konular klasör klasör ayrılmış olup alt kısımda bulunan <b> Konular </b> başlığı altında toplanmıştır. İlgili konuya üzerine tıklayarak gidebilirsiniz.
 
-- Konular klasör klasör ayrılıp klasörlerin içinde kaynak kodları, yararlandığım kaynakları ve cheat sheetler'i bulabilirsiniz.
+- Kısacası 81 gün boyunca JavaScript üzerine yapmış olduğum tüm çalışmalarıma bu repository içerisinden ulaşabilirsiniz.
 
-- <a href="https://www.youtube.com/c/OzanTekin">YouTube</a> üzerinde de içerikler üretmeye çalışıyorum incelemeniz faydanıza olacaktır.
+- <a href="https://www.youtube.com/c/OzanTekin">YouTube</a> junior developer serüvenime dahil olmak isterseniz kanalımı inceleyebilirsiniz.
+
+- ###### Kafanıza takılan bir şey olursa bana istediğiniz mecradan ulaşabilirsiniz.
 
 <hr/>
 
@@ -42,4 +54,13 @@
 | `24` | **[Nodejs & Npm](https://github.com/ozantekin/100DaysOfJS/tree/main/24-NodejsNpm)**                                                     | `Tamamlandı` |
 | `25` | **[TypeScript](https://github.com/ozantekin/100DaysOfJS/tree/main/25-TypeScript)**                                                      | `Tamamlandı` |
 
-###### Ekleme ve güncellemeler yapabilirim ama ana hatlarıyla çalışacağım konular bunlardır
+<hr/>
+
+<h4> Aktif Kullandığım hesaplar:</h4>
+
+- YouTube: <a href="https://www.youtube.com/c/OzanTekin">Ozan Tekin</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/ardilozantekin/">Ardıl Ozan Tekin</a>
+- Medium: <a href="https://medium.com/@ozantekindev">@ozantekindev</a>
+- Twitter: <a href="https://twitter.com/ozantekindev">@ozantekindev</a>
+- Instagram: <a href="https://www.instagram.com/ozantekindev/">@ozantekindev</a>
+- 1:1 Görüşme ve Tanışma için: <a href="https://superpeer.com/ozantekin">Superpeer/OzanTekin</a>
