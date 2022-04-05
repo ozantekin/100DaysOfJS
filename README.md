@@ -3,6 +3,7 @@
 <h1>100 GÜNLÜK EĞİTİMİN İÇERİĞİ</h1>
 <h3>TAMAMLANDI</h3>
 </div>
+<img src="https://miro.medium.com/max/1400/1*194xpAFKKel8vKqe4uorAQ.png"/>
 
 - <b> İçerik: </b>
   - Yararlandığım kaynaklar.
@@ -13,7 +14,7 @@
   - Konuyla ilgili uygulamalar ve eğitsel kaynak kodlar.
 - <b> Düzen: </b>
 
-  - Konular klasör klasör ayrılmış olup alt kısımda bulunan <b> Konular </b> başlığı altında toplanmıştır. İlgili konuya üzerine tıklayarak gidebilirsiniz.
+- Konular klasör klasör ayrılmış olup alt kısımda bulunan <b> Konular </b> başlığı altında toplanmıştır. İlgili konuya üzerine tıklayarak gidebilirsiniz.
 
 - Kısacası 81 gün boyunca JavaScript üzerine yapmış olduğum tüm çalışmalarıma bu repository içerisinden ulaşabilirsiniz.
 
