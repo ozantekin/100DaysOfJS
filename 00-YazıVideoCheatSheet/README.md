@@ -43,17 +43,12 @@
 
 <hr/>
 
-<h3 align="center">--- Cheat Sheet Kütüphanesi ---</h3>
+<h3 align="center">--- Newsletter ---</h3>
 
 | Sıra | Çalışma Görselleri                                                                                                | Platform    |
 | :--- | :---------------------------------------------------------------------------------------------------------------- | :---------- |
-| `00` | **[ Var, Let, Const detaylı cheat sheet](https://www.instagram.com/p/CZzMDNtMFzV/?utm_source=ig_web_copy_link)**  | `Instagram` |
-| `01` | **[JavaScript Dizi Metotları tek sayfada](https://www.instagram.com/p/CaCVlF8s1Os/?utm_source=ig_web_copy_link)** | `Instagram` |
-| `02` | **[Document Object Model (DOM)](https://www.instagram.com/p/Caj0ZFQsOBz/?utm_source=ig_web_copy_link)**           | `Instagram` |
-| `04` | **[JavaScript Dizi Metotları-2 ](https://www.instagram.com/p/CawvnNNsX_d/?utm_source=ig_web_copy_link)**          | `Instagram` |
-| `05` | **[Data Types hakkında](https://www.instagram.com/p/Ca4ryRLscN2/?utm_source=ig_web_copy_link)**                   | `Instagram` |
-| `06` | **[Null ve Undefined arasındaki farklar](https://www.instagram.com/p/CaHqpyBMQlM/?utm_source=ig_web_copy_link)**  | `Instagram` |
-| `07` | **[JavaScript bilgi haritası](https://www.instagram.com/p/CaM1av4MKQK/?utm_source=ig_web_copy_link)**             | `Instagram` |
+| `00` | **[ Snack Technical Memos](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6906214592075423745)**  | `LinkedIn` |
+
 
 ###### Eklemeler ile güncel tutmaya çalışacağım.
 
